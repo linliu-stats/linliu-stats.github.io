@@ -22,5 +22,5 @@ Work experience
 
 Service
 ======
-* Reviewer for: The Annals of Applied Statistics, PLoS Computational Biology, Scientific Reports
-* Program committee for: ICML 2020, UAI 2020
+* Reviewer for: The Annals of Applied Statistics; PLoS Computational Biology; Scientific Reports; Cancer Epidemiology, Biomarkers & Prevention
+* Program committee for: [ICML 2020](https://icml.cc/Conferences/2020/), [UAI 2020](http://www.auai.org/uai2020/)
