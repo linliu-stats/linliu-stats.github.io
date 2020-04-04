@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "My online profiles"
   avatar           : "profile.png"
-  bio              : ""
-  location         : ""
+  # bio              : ""
+  # location         : ""
   employer         : "Harvard University"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "linliu-stats.github.io"
+  github           : "linliu-stats"
   # google_plus      :
   # keybase          :
   # instagram        :
