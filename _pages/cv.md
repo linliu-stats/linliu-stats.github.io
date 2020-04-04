@@ -17,17 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - : Postdoctoral fellow
+  * Department of Epidemiology, Harvard University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Service and leadership
+Service
 ======
 * Reviewer for: The Annals of Applied Statistics, PLoS Computational Biology, Scientific Reports
 * Program committee for: ICML 2020, UAI 2020
