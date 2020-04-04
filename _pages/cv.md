@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computational Biology, Tongji University, 2011
+* B.S. in Computational Biology, [Tongji University](https://life.tongji.edu.cn/lifeen/), 2011
 * M.Sc. in Biostatistics, Harvard University, 2013
 * Ph.D in Biostatistics, Harvard University, 2018
 
