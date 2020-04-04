@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "My online profiles"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : ""
+  location         : ""
+  employer         : "Harvard University"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en"
   email            : "linliu.tju@gmail.com"
@@ -96,7 +96,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "academicpages"
+  github           : "linliu-stats.github.io"
   # google_plus      :
   # keybase          :
   # instagram        :
