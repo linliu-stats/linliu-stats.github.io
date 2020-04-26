@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Information"
+title: "Welcome to Lin Liu's homepage"
 excerpt: "Personal Information"
 author_profile: true
 redirect_from: 
