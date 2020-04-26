@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Where to find me"
+  # name             : "Where to find me"
   # avatar           : ""
   # bio              : ""
   # location         : ""
