@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Where to find me"
-  avatar           : "0268.jpg"
+  # avatar           : ""
   # bio              : ""
   # location         : ""
   employer         : "Harvard University"
