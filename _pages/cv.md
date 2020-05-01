@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. in Computational Biology, [Tongji University](https://life.tongji.edu.cn/lifeen/), 2011
-* M.Sc. in Biostatistics, Harvard University, 2013
-* Ph.D in Biostatistics, Harvard University, 2018
+* M.Sc. in Biostatistics, [Harvard University](https://www.hsph.harvard.edu/biostatistics/), 2013
+* Ph.D in Biostatistics, [Harvard University](https://gsas.harvard.edu/), 2018
 
 Work experience
 ======
 * June 2018 - : Postdoctoral fellow
-  * Department of Epidemiology, Harvard University
+  * Department of Epidemiology, [Harvard University](https://www.hsph.harvard.edu/epidemiology/)
 
 Service
 ======
