@@ -14,4 +14,4 @@ I obtained my undergraduate degree from the [School of Life Sciences at Tongji U
 
 I will be joining the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Fall 2020. I will also be affiliated with the [School of Mathematical Sciences](http://math.sjtu.edu.cn/) and the [SJTU-YALE Joint Center for Biostatistics](http://transmed.sjtu.edu.cn/ylhome.do?method=getHomeList&version=en).
 
-You can reach me by email: [linliu.tju@gmail.com](linliu.tju@gmail.com)
+You can reach me by email: linliu.tju@gmail.com
