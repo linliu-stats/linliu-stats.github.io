@@ -20,5 +20,8 @@ You can reach me by email: linliu.tju@gmail.com or lil490@mail.harvard.edu
 
 Selected Publications
 ======
-
 (You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).)
+
+Statistical theory:
+
+1. LL, Rajarshi Mukherjee, and James M. Robins. (2019). On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
