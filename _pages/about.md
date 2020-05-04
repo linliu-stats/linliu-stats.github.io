@@ -24,8 +24,13 @@ Selected Publications
 
 _Statistical theory_:
 
-1. LL, Rajarshi Mukherjee, and James M. Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
+1. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
+
+_Statistical methodology and causal inference_:
+
 
 _Mathematical biology_:
 
 1. LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. Probabilistic modeling of reprogramming to induced pluripotent stem cells. Cell Reports 17, no. 12 (2016): 3395-3406.
+
+2. Philipp M Altrock, LLL, and Franziska Michor. The mathematics of cancer: integrating quantitative models. Nature Reviews Cancer 15, no. 12 (2015): 730-745.
