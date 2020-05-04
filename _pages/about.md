@@ -22,6 +22,6 @@ Selected Publications
 ======
 (You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).)
 
-Statistical theory:
+_Statistical theory_:
 
 1. LL, Rajarshi Mukherjee, and James M. Robins. (2019). On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
