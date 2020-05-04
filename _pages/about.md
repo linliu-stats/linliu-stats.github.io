@@ -33,4 +33,4 @@ _Mathematical biology_:
 
 1. LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. Probabilistic modeling of reprogramming to induced pluripotent stem cells. Cell Reports 17, no. 12 (2016): 3395-3406.
 
-2. Philipp M Altrock, LLL, and Franziska Michor. The mathematics of cancer: integrating quantitative models. Nature Reviews Cancer 15, no. 12 (2015): 730-745.
+2. Philipp M Altrock, LLL, and Franziska Michor. [The mathematics of cancer: integrating quantitative models.](https://www.nature.com/articles/nrc4029) Nature Reviews Cancer 15, no. 12 (2015): 730-745.
