@@ -28,4 +28,4 @@ _Statistical theory_:
 
 _Mathematical biology_:
 
-1. LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. Probabilistic modeling of reprogramming to induced pluripotent stem cells. Cell reports 17, no. 12 (2016): 3395-3406.
+1. LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. Probabilistic modeling of reprogramming to induced pluripotent stem cells. Cell Reports 17, no. 12 (2016): 3395-3406.
