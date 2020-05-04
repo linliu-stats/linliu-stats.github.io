@@ -24,7 +24,9 @@ Selected Publications
 
 _Statistical theory_:
 
-1. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
+1. LL, Rajarshi Mukherjee, James M Robins and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2020+).
+
+2. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
 
 _Statistical methodology and causal inference_:
 
