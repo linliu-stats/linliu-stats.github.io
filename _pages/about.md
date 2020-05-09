@@ -18,15 +18,15 @@ I will be joining the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu
 
 You can reach me by email: linliu.tju@gmail.com or lil490@mail.harvard.edu
 
-Selected Publications (_Italic_: co-first authorship)
+Selected Publications
 ======
-(You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).)
+(You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship)
 
 _Statistical theory_:
 
-1. LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2020+).
+2. LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2020+).
 
-2. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
+1. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
 
 _Statistical methodology and causal inference_:
 
@@ -34,20 +34,26 @@ _Statistical methodology and causal inference_:
 
 _Mathematical biology_:
 
-1. LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. [Probabilistic modeling of reprogramming to induced pluripotent stem cells.](https://www.sciencedirect.com/science/article/pii/S2211124716316540) Cell Reports 17, no. 12 (2016): 3395-3406.
+5. Kimiyo N Yamamoto, LLL, Akira Nakamura, Hiroshi Haeno, and Franziska Michor. [Stochastic evolution of pancreatic cancer metastases during logistic clonal expansion.](https://ascopubs.org/doi/abs/10.1200/CCI.18.00079) JCO Clinical Cancer Informatics 3, (2019): 1-11. 
+
+4. Helena A Yu, Camelia Sima, Daniel Feldman, LLL, Bhavapriya Vaitheesvaran, Justin Cross, Charles M Rudin, Mark G Kris, William Pao, Franziska Michor, and Gregory J Riely. [Phase 1 study of twice weekly pulse dose and daily low-dose erlotinib as initial treatment for patients with EGFR-mutant lung cancers](https://academic.oup.com/annonc/article-abstract/28/2/278/2676878) Annals of Oncology 28, no. 2 (2017): 278-284.
+
+3. LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. [Probabilistic modeling of reprogramming to induced pluripotent stem cells.](https://www.sciencedirect.com/science/article/pii/S2211124716316540) Cell Reports 17, no. 12 (2016): 3395-3406.
 
 2. _Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: integrating quantitative models.](https://www.nature.com/articles/nrc4029) Nature Reviews Cancer 15, no. 12 (2015): 730-745.
 
+1. _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) PLoS Computational Biology 11, no. 9 (2015): e1004350.
+
 _Statistical and Machine Learning Applications_:
 
-1. Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
+6. Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
 
-2. _Kyle S Smith_, _LLL_, [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) Nature Structural & Molecular Biology 24, no. 11 (2017): 1000-1006.
+5. _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) Nature Structural & Molecular Biology 24, no. 11 (2017): 1000-1006.
 
-3. Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A Sakr, Britta Weigelt, Ariella B Hanker, Sarat Chandarlapaty, Tari A King, Jorge S Reis-Filho, Carlos L Arteaga, So Yeon Park, Franziska Michor, and Kornelia Polyak. [In situ single-cell analysis identifies heterogeneity for PIK3CA mutation and HER2 amplification in HER2-positive breast cancer.](https://www.nature.com/articles/ng.3391/) Nature Genetics 47, no. 10 (2015): 1212-1219.
+4. Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A Sakr, Britta Weigelt, Ariella B Hanker, Sarat Chandarlapaty, Tari A King, Jorge S Reis-Filho, Carlos L Arteaga, So Yeon Park, Franziska Michor, and Kornelia Polyak. [In situ single-cell analysis identifies heterogeneity for PIK3CA mutation and HER2 amplification in HER2-positive breast cancer.](https://www.nature.com/articles/ng.3391/) Nature Genetics 47, no. 10 (2015): 1212-1219.
 
-4. LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) Nature Communications 4, (2013): 1502.
+3. LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) Nature Communications 4, (2013): 1502.
 
-5. _LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [GeSICA: Genome segmentation from intra-chromosomal associations.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-164) BMC Genomics 13, no. 1 (2012): 164.
+2. _LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [GeSICA: Genome segmentation from intra-chromosomal associations.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-164) BMC Genomics 13, no. 1 (2012): 164.
 
-6. 
+1. Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR modelling in the analysis and design of HIV-HCV co-inhibitors: an in-silico study.](https://link.springer.com/article/10.1186/1471-2105-12-294) BMC Bioinformatics 12, no. 1 (2011): 294.
