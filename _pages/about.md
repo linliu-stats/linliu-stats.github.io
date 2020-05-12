@@ -36,13 +36,13 @@ _Mathematical biology_:
 
 1. Kimiyo N Yamamoto, LLL, Akira Nakamura, Hiroshi Haeno, and Franziska Michor. [Stochastic evolution of pancreatic cancer metastases during logistic clonal expansion.](https://ascopubs.org/doi/abs/10.1200/CCI.18.00079) JCO Clinical Cancer Informatics 3, (2019): 1-11. 
 
-2. Helena A Yu, Camelia Sima, Daniel Feldman, LLL, Bhavapriya Vaitheesvaran, Justin Cross, Charles M Rudin, Mark G Kris, William Pao, Franziska Michor, and Gregory J Riely. [Phase 1 study of twice weekly pulse dose and daily low-dose erlotinib as initial treatment for patients with EGFR-mutant lung cancers](https://academic.oup.com/annonc/article-abstract/28/2/278/2676878) Annals of Oncology 28, no. 2 (2017): 278-284.
+2. Helena A Yu, Camelia Sima, Daniel Feldman, LLL, Bhavapriya Vaitheesvaran, Justin Cross, Charles M Rudin, Mark G Kris, William Pao, Franziska Michor, and Gregory J Riely. [Phase 1 study of twice weekly pulse dose and daily low-dose erlotinib as initial treatment for patients with EGFR-mutant lung cancers.](https://academic.oup.com/annonc/article-abstract/28/2/278/2676878) Annals of Oncology 28, no. 2 (2017): 278-284.
 
 3. LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. [Probabilistic modeling of reprogramming to induced pluripotent stem cells.](https://www.sciencedirect.com/science/article/pii/S2211124716316540) Cell Reports 17, no. 12 (2016): 3395-3406.
 
 4. _Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: integrating quantitative models.](https://www.nature.com/articles/nrc4029) Nature Reviews Cancer 15, no. 12 (2015): 730-745.
 
-5. _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) PLoS Computational Biology 11, no. 9 (2015): e1004350.
+5. _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) PLoS Computational Biology 11, no. 9 (2015): e1004350.
 
 _Statistical and Machine Learning Applications_:
 
