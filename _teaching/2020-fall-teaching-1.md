@@ -22,4 +22,4 @@ Textbook:
 
 Disclaimer:
 ------
-This course is designed for engineering students. Unfortunately, I do not have an engineering background. The examples or applications used in the course may not represent what an engineering student may encounter in his/her future career. I will choose examples which are more relevant in machine learning/artificial intelligence and statistics/data sciences.
+This course is designed for engineering students. Unfortunately, I do not have an engineering background. The examples or applications in the class may not represent what an engineering student may encounter in his/her future career. I will choose examples which are more relevant in machine learning/artificial intelligence and statistics/data sciences.
