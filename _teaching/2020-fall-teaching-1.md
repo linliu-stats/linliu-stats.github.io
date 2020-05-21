@@ -12,3 +12,4 @@ Under construction.
 
 Syllabus
 ======
+Textbook: Solomon, Justin. Numerical algorithms: methods for computer vision, machine learning, and graphics. CRC press, 2015.
