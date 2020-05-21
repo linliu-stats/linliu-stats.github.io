@@ -12,6 +12,9 @@ Under construction.
 
 Syllabus
 ======
+Course overview:
+------
+
 Textbook: 
-======
+------
 [Solomon, Justin. Numerical algorithms: methods for computer vision, machine learning, and graphics. CRC press, 2015.](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)
