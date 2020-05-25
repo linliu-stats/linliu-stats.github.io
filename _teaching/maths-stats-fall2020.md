@@ -67,3 +67,7 @@ Lower bounds for testing, estimation, and inference, adaptative testing, estimat
 Part V: Other topics
 
 High dimensional statistics and compressive sensing, Causal inference, Deep neural networks
+
+Evaluation
+------
+Scribing (10%), Homeworks (30%), Midterm (30%), Final (30%)
