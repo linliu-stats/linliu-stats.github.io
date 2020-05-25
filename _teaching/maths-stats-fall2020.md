@@ -16,9 +16,9 @@ Syllabus
 Course overview
 ------
 
-Most of mathematical statistics courses use the classic textbook "Statistical Inference" by Casella Berger
+Most of mathematical statistics courses use the classic textbook "Statistical Inference" by Casella Berger. But I prefer the materials selected by Prof. [Larry Wasserman](http://www.stat.cmu.edu/~larry) in his course "[Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/)".
 
-My goal is to cover the most important ideas and results in the classical parametric statistics in the first month of the semester and jump into the modern tools and techniques in mathematical statistics used in research. 
+My goal is to cover the most important ideas and results in the classical parametric statistics in the first month of the semester and jump into the modern tools and techniques that prepare you for doing serious research in statistics and data sciences.
 
 Recommended textbooks
 ------
