@@ -50,7 +50,7 @@ Note: All the books listed here have electronic version available in the library
 
 2. Vershynin, Roman. [High-dimensional probability: An introduction with applications in data science.](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) Vol. 47. Cambridge University Press, 2018.
 
-3. Giné, Evarist, and Richard Nickl. Mathematical foundations of infinite-dimensional statistical models. Vol. 40. Cambridge University Press, 2016.
+3. Giné, Evarist, and Nickl, Richard. Mathematical foundations of infinite-dimensional statistical models. Vol. 40. Cambridge University Press, 2016.
 
 4. Wasserman, Larry. All of statistics: A concise course in statistical inference. Springer Science & Business Media, 2013.
 
