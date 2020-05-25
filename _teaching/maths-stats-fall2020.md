@@ -15,6 +15,7 @@ Syllabus
 
 Course overview
 ------
+
 My goal is to cover the most important ideas and results in the classical parametric statistics in the first month of the semester and jump into the modern tools and techniques in mathematical statistics used in research. 
 
 Recommended textbooks
