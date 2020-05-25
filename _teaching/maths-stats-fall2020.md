@@ -43,6 +43,10 @@ The following materials are also valuable for learning:
 
 3. Talagrand, Michel. Upper and lower bounds for stochastic processes: Modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
 
+4. Tropp, Joel A. [User-friendly tail bounds for sums of random matrices.](https://link.springer.com/content/pdf/10.1007/s10208-011-9099-z.pdf) Foundations of Computational Mathematics 12.4 (2012): 389-434.
+
+5. van Handel, Ramon. [Probability in high dimension.](https://web.math.princeton.edu/~rvan/APC550.pdf) 2016.
+
 Tentative plan
 ------
 I have an ambitious plan to cover within one semester. As a result, I may leave some of the topics to homework problems for you to explore.
