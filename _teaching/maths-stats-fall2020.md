@@ -12,6 +12,7 @@ Under construction.
 
 Syllabus
 ======
+
 Course overview
 ------
 
