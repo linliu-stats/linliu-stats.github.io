@@ -43,3 +43,18 @@ The following lecture notes are also valuable for learning:
 
 Tentative plan
 ------
+Part I: Parametric statistics
+
+Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, Parametric Bayesian inference
+
+Part II: Nonparametric and semiparametric statistics
+
+Resampling (bootstrap, jackknife, permutation), Influence functions, Semiparametric efficiency, Gaussian and Empirical processes, Function spaces and approximation theory
+
+Part III: Minimax lower bounds 
+
+Lower bounds for testing, estimation, and inference, adaptative testing, estimation and inference
+
+Part V: Other topics
+
+High dimensional statistics and compressive sensing, Causal inference, Deep neural networks
