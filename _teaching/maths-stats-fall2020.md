@@ -9,3 +9,11 @@ location: "Shanghai, China"
 ---
 
 Under construction.
+
+Syllabus
+======
+Course overview
+------
+
+Tentative plan
+------
