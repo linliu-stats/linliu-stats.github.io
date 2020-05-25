@@ -15,6 +15,7 @@ Syllabus
 
 Course overview:
 ------
+
 This course will cover the basics and implementation of numerical algorithms for scientific computation. I will emphasize the algorithmic aspects more than the theoretical aspects, but a basic understanding of the theory is necessary. The tentative plan of this course is as follows:
 
 Week 1: Introduction, Notation and Examples
