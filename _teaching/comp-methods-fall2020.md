@@ -2,7 +2,7 @@
 title: "Computational Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: /teaching/comp-methods-fall2020
 venue: "Shanghai Jiao Tong University, School of Mathematical Sciences"
 date: 2020-09-01
 location: "Shanghai, China"
