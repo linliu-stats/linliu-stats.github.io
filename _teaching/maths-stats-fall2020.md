@@ -16,9 +16,33 @@ Syllabus
 Course overview
 ------
 
-Most of mathematical statistics courses use the classic textbook "Statistical Inference" by Casella Berger. But I prefer the materials selected by Prof. [Larry Wasserman](http://www.stat.cmu.edu/~larry) in his course "[Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/)".
+Most of mathematical statistics courses use the classic textbook "[Statistical Inference](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf)" by Casella and Berger. But I prefer the materials selected by Prof. [Larry Wasserman](http://www.stat.cmu.edu/~larry) in his course "[Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/)".
 
 My goal is to cover the most important ideas and results in the classical parametric statistics in the first month of the semester and jump into the modern tools and techniques that prepare you for doing serious research in statistics and data sciences.
+
+Tentative plan
+------
+I have an ambitious plan to cover within one semester. As a result, I may leave some of the topics to homework problems for you to explore.
+
+Part I: Parametric statistics
+
+Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Neyman-Pearson lemma, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, Parametric Bayesian inference
+
+Part II: Nonparametric and semiparametric statistics
+
+Resampling (bootstrap, jackknife, permutation), Influence functions and von Mises calculus, Semiparametric efficiency, Gaussian and Empirical processes, Function spaces and approximation theory, U-statistics and V-statistics
+
+Part III: Minimax lower bounds 
+
+Lower bounds for testing, estimation, and inference, adaptative testing, estimation and inference
+
+Part V: Other topics
+
+High dimensional statistics and compressive sensing, Causal inference, Deep neural networks
+
+Evaluation
+------
+Scribing (10%), Homeworks (30%), Midterm (30%), Final (30%)
 
 Recommended textbooks
 ------
@@ -44,36 +68,18 @@ The following materials are also valuable for learning:
 
 1. Lehmann, Erich L., and Romano, Joseph P. [Testing statistical hypotheses.](https://www.stat.washington.edu/jaw/COURSES/580s/582/HO/Lehmann_and_Romano-TestingStatisticalHypotheses.pdf) Springer Science & Business Media, 2006.
 
-1. Johnstone, Iain M. [Gaussian estimation: Sequence and wavelet models.](http://statweb.stanford.edu/~imj/GE_08_09_17.pdf)
+2. Lehmann, Erich L., and Casella, George. [Theory of point estimation.](https://www.webdepot.umontreal.ca/Usagers/perronf/MonDepotPublic/stt6100/E.L.Lehmann,%20G.Casella%20-%20Theory%20of%20point%20estimation.%202nd%20edition.pdf) Springer Science & Business Media, 2006.
 
-2. Nemirovski, Arkadi. [Topics in non-parametric.](https://www2.isye.gatech.edu/~nemirovs/snf00.pdf) Ecole d’Eté de Probabilités de Saint-Flour 28 (2000): 85.
+3. Lehmann, Erich L. [Elements of large-sample theory.](http://www.esalq.usp.br/departamentos/lce/arquivos/aulas/2011/LCE5866/Springer_-_E.L.Lehmann_-_Elements_of_Large-sample_Theory.pdf) Springer Science & Business Media, 2004.
 
-3. Talagrand, Michel. Upper and lower bounds for stochastic processes: Modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
+4. Johnstone, Iain M. [Gaussian estimation: Sequence and wavelet models.](http://statweb.stanford.edu/~imj/GE_08_09_17.pdf)
 
-4. Tropp, Joel A. [User-friendly tail bounds for sums of random matrices.](https://link.springer.com/content/pdf/10.1007/s10208-011-9099-z.pdf) Foundations of Computational Mathematics 12.4 (2012): 389-434.
+5. Nemirovski, Arkadi. [Topics in non-parametric.](https://www2.isye.gatech.edu/~nemirovs/snf00.pdf) Ecole d’Eté de Probabilités de Saint-Flour 28 (2000): 85.
 
-5. van Handel, Ramon. [Probability in high dimension.](https://web.math.princeton.edu/~rvan/APC550.pdf) 2016.
+6. Talagrand, Michel. Upper and lower bounds for stochastic processes: Modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
 
-Tentative plan
-------
-I have an ambitious plan to cover within one semester. As a result, I may leave some of the topics to homework problems for you to explore.
+7. Tropp, Joel A. [User-friendly tail bounds for sums of random matrices.](https://link.springer.com/content/pdf/10.1007/s10208-011-9099-z.pdf) Foundations of Computational Mathematics 12.4 (2012): 389-434.
 
-Part I: Parametric statistics
+8. van Handel, Ramon. [Probability in high dimension.](https://web.math.princeton.edu/~rvan/APC550.pdf) 2016.
 
-Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Neyman-Pearson lemma, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, Parametric Bayesian inference
-
-Part II: Nonparametric and semiparametric statistics
-
-Resampling (bootstrap, jackknife, permutation), Influence functions and von Mises calculus, Semiparametric efficiency, Gaussian and Empirical processes, Function spaces and approximation theory, U-statistics and V-statistics
-
-Part III: Minimax lower bounds 
-
-Lower bounds for testing, estimation, and inference, adaptative testing, estimation and inference
-
-Part V: Other topics
-
-High dimensional statistics and compressive sensing, Causal inference, Deep neural networks
-
-Evaluation
-------
-Scribing (10%), Homeworks (30%), Midterm (30%), Final (30%)
+9. Tsiatis, Anastasios. Semiparametric theory and missing data. Springer Science & Business Media, 2007.
