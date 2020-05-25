@@ -41,7 +41,7 @@ The following materials are also valuable for learning:
 
 2. Nemirovski, Arkadi. [Topics in non-parametric.](https://www2.isye.gatech.edu/~nemirovs/snf00.pdf) Ecole d’Eté de Probabilités de Saint-Flour 28 (2000): 85.
 
-3. Talagrand, Michel. Upper and lower bounds for stochastic processes: modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
+3. Talagrand, Michel. Upper and lower bounds for stochastic processes: Modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
 
 Tentative plan
 ------
