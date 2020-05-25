@@ -16,6 +16,8 @@ Syllabus
 Course overview
 ------
 
+Most of mathematical statistics courses use the classic textbook "Statistical Inference" by Casella Berger
+
 My goal is to cover the most important ideas and results in the classical parametric statistics in the first month of the semester and jump into the modern tools and techniques in mathematical statistics used in research. 
 
 Recommended textbooks
@@ -40,7 +42,9 @@ Note: All the books listed here have electronic version available in the library
 
 The following materials are also valuable for learning:
 
-1. Johnstone, Iain M. (2017). [Gaussian estimation: Sequence and wavelet models.](http://statweb.stanford.edu/~imj/GE_08_09_17.pdf)
+1. Lehmann, Erich L., and Romano, Joseph P. [Testing statistical hypotheses.](https://www.stat.washington.edu/jaw/COURSES/580s/582/HO/Lehmann_and_Romano-TestingStatisticalHypotheses.pdf) Springer Science & Business Media, 2006.
+
+1. Johnstone, Iain M. [Gaussian estimation: Sequence and wavelet models.](http://statweb.stanford.edu/~imj/GE_08_09_17.pdf)
 
 2. Nemirovski, Arkadi. [Topics in non-parametric.](https://www2.isye.gatech.edu/~nemirovs/snf00.pdf) Ecole d’Eté de Probabilités de Saint-Flour 28 (2000): 85.
 
