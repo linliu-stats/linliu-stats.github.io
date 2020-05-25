@@ -35,14 +35,18 @@ Note: All the books listed here have electronic version available in the library
 
 8. Ghosal, Subhashis, and van der Vaart, Aad. Fundamentals of nonparametric Bayesian inference. Vol. 44. Cambridge University Press, 2017.
 
-The following lecture notes are also valuable for learning:
+The following materials are also valuable for learning:
 
 1. Johnstone, Iain M. (2017). [Gaussian estimation: Sequence and wavelet models.](http://statweb.stanford.edu/~imj/GE_08_09_17.pdf)
 
 2. Nemirovski, Arkadi. [Topics in non-parametric.](https://www2.isye.gatech.edu/~nemirovs/snf00.pdf) Ecole d’Eté de Probabilités de Saint-Flour 28 (2000): 85.
 
+3. Talagrand, Michel. Upper and lower bounds for stochastic processes: modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
+
 Tentative plan
 ------
+I have an ambitious plan to cover within one semester. As a result, I may leave some of the topics to homework problems for you to explore.
+
 Part I: Parametric statistics
 
 Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, Parametric Bayesian inference
