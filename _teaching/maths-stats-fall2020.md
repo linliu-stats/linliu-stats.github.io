@@ -56,7 +56,7 @@ I have an ambitious plan to cover within one semester. As a result, I may leave 
 
 Part I: Parametric statistics
 
-Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, Parametric Bayesian inference
+Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Neyman-Pearson lemma, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, Parametric Bayesian inference
 
 Part II: Nonparametric and semiparametric statistics
 
