@@ -60,7 +60,7 @@ Sufficient and ancillary statistics, Efficiency theory for maximum likelihood es
 
 Part II: Nonparametric and semiparametric statistics
 
-Resampling (bootstrap, jackknife, permutation), Influence functions, Semiparametric efficiency, Gaussian and Empirical processes, Function spaces and approximation theory
+Resampling (bootstrap, jackknife, permutation), Influence functions and von Mises calculus, Semiparametric efficiency, Gaussian and Empirical processes, Function spaces and approximation theory, U-statistics and V-statistics
 
 Part III: Minimax lower bounds 
 
