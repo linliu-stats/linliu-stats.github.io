@@ -82,7 +82,7 @@ Nonparametric statistics
 
 6. Tsiatis, Anastasios. Semiparametric theory and missing data. Springer Science & Business Media, 2007.
 
-Tools in probability
+Probabilistic tools:
 
 1. Talagrand, Michel. Upper and lower bounds for stochastic processes: Modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
 
