@@ -14,7 +14,7 @@ Syllabus
 Course overview
 ------
 
-Most of mathematical statistics courses use the classic textbook "[Statistical Inference](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf)" by Casella and Berger. But I prefer the materials selected by Prof. [Larry Wasserman](http://www.stat.cmu.edu/~larry) in his course "[Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/)".
+Most of mathematical statistics courses use the classic textbook "[Statistical Inference](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf)" by Casella and Berger. But I prefer the materials selected by Prof. [Larry Wasserman](http://www.stat.cmu.edu/~larry) in his course "[Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/)", combined with those topics covered in books [van der Vaart (2000)](#vdv-2000) and [Giné and Nickl (2016)](#gine-nickl-2016).
 
 My goal is to cover the most important ideas and results in the classical parametric statistics in the first month of the semester and jump into the modern tools and techniques that prepare you for doing serious research in statistics and data sciences.
 
@@ -48,7 +48,7 @@ Note: All the books listed here have electronic version available in the library
 
 Basics and foundations:
 
-1. Van der Vaart, Aad W. Asymptotic statistics. Vol. 3. Cambridge University Press, 2000.
+<a name="vdv-2000"></a> 1. Van der Vaart, Aad W. Asymptotic statistics. Vol. 3. Cambridge University Press, 2000.
 
 2. Wasserman, Larry. All of statistics: A concise course in statistical inference. Springer Science & Business Media, 2013.
 
@@ -70,7 +70,7 @@ High-dimensional statistics
 
 Nonparametric statistics
 
-1. Giné, Evarist, and Nickl, Richard. Mathematical foundations of infinite-dimensional statistical models. Vol. 40. Cambridge University Press, 2016.
+<a name="gine-nickl-2016"></a> 1. Giné, Evarist, and Nickl, Richard. Mathematical foundations of infinite-dimensional statistical models. Vol. 40. Cambridge University Press, 2016.
 
 2. Tsybakov, Alexandre B. Introduction to nonparametric estimation. Springer Science & Business Media, 2008.
 
