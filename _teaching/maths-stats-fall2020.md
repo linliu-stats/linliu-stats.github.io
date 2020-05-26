@@ -36,7 +36,7 @@ Lower bounds for testing, estimation, and inference, adaptative testing, estimat
 
 Part V: Other topics
 
-High dimensional statistics and compressive sensing, Causal inference, Deep neural networks
+CLT in high dimensions, Sparsity and compressive sensing, Causal inference, Deep neural networks
 
 Evaluation
 ------
