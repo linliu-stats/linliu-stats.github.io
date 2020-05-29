@@ -92,5 +92,9 @@ Probabilistic tools:
 
 <a name="vhandel-2016"></a> 3. van Handel, Ramon. [Probability in high dimension.](https://web.math.princeton.edu/~rvan/APC550.pdf) 2016.
 
+Optimization tools:
+
+<a name="juditsky-nemirovski-2019"></a> 1. Juditsky, Anatoli and Nemirovski, Arkadi. [Statistical Inference via Convex Optimization.](https://www2.isye.gatech.edu/~nemirovs/StatOpt_LN_NS.pdf) 2019.
+
 Potential topics for final projects
 ------
