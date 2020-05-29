@@ -24,7 +24,7 @@ I have an ambitious plan to cover within one semester. As a result, I may leave 
 
 Part I: Parametric statistics
 
-Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Neyman-Pearson lemma, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, Parametric Bayesian inference
+Sufficient and ancillary statistics, Efficiency theory for maximum likelihood estimation, Neyman-Pearson lemma, Cramer-Rao lower bound, Regression, M-estimation, Z-estimation, LAN/CAN/RAL, Parametric Bayesian inference
 
 Part II: Nonparametric and semiparametric statistics
 
@@ -34,13 +34,13 @@ Part III: Minimax lower bounds
 
 Lower bounds for testing, estimation, and inference, adaptative testing, estimation and inference
 
-Part V: Other topics
+Part V: Advanced topics
 
-CLT in high dimensions, Sparsity and compressive sensing, Causal inference, Deep neural networks
+CLT in high dimensions, Compressive sensing/RMT, Robust/heavy-tailed statistics and Median-of-mean tournament, , Causal inference
 
 Evaluation
 ------
-Scribing (10%), Homeworks (30%), Midterm (30%), Final (30%)
+Scribing (10%), Homeworks (40%), In-class exam on Part I-III (25%), Final project (short research project or literature survey) (25%)
 
 Recommended textbooks
 ------
@@ -89,3 +89,6 @@ Probabilistic tools:
 <a name="tropp-2012"></a> 2. Tropp, Joel A. [User-friendly tail bounds for sums of random matrices.](https://link.springer.com/content/pdf/10.1007/s10208-011-9099-z.pdf) Foundations of Computational Mathematics 12.4 (2012): 389-434.
 
 <a name="vhandel-2016"></a> 3. van Handel, Ramon. [Probability in high dimension.](https://web.math.princeton.edu/~rvan/APC550.pdf) 2016.
+
+Potential topics for final projects
+------
