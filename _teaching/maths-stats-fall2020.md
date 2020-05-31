@@ -92,7 +92,7 @@ Probabilistic tools:
 
 <a name="vhandel-2016"></a> 3. van Handel, Ramon. [Probability in high dimension.](https://web.math.princeton.edu/~rvan/APC550.pdf) 2016.
 
-<a name="dembo-2020"></a> 3. Dembo, Amir. [Lecture Notes: Probability Theory.](https://statweb.stanford.edu/~adembo/stat-310b/lnotes.pdf) 2020.
+<a name="dembo-2020"></a> 4. Dembo, Amir. [Lecture Notes: Probability Theory.](https://statweb.stanford.edu/~adembo/stat-310b/lnotes.pdf) 2020.
 
 Optimization tools:
 
