@@ -38,7 +38,7 @@ Lower bounds for testing, estimation, and inference, adaptative testing, estimat
 
 Part V: Advanced topics
 
-CLT in high dimensions, Compressive sensing/RMT, Robust/heavy-tailed statistics and Median-of-mean tournament, , Causal inference
+CLT in high dimensions, Compressive sensing/RMT, Robust/heavy-tailed statistics and Median-of-mean tournament, Computational-statistical gap: (1) sparse PCA (2) SoS/Lasserre Hierarchy 
 
 Evaluation
 ------
