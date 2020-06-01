@@ -84,6 +84,10 @@ Nonparametric statistics
 
 <a name="tsiatis-2007"></a> 6. Tsiatis, Anastasios. Semiparametric theory and missing data. Springer Science & Business Media, 2007.
 
+<a name="ibragimov-hasminskii-1981"></a> 7. Ibragimov, Ildar A and Has'minskii, Rafail Z. Statistical estimation: asymptotic theory. Springer Science & Business Media, 1981.
+
+<a name="ingster-suslina-2002"></a> 8. Ingster, Yuri N and Suslina, Irina A. Nonparametrie Goodness-of-Fit Testing Under Gaussian Models。 Springer Science & Business Media, 2002.
+
 Probabilistic tools:
 
 <a name="talagrand-2014"></a> 1. Talagrand, Michel. Upper and lower bounds for stochastic processes: Modern methods and classical problems. Vol. 60. Springer Science & Business Media, 2014.
