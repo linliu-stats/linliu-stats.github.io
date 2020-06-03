@@ -42,7 +42,7 @@ CLT in high dimensions, Compressive sensing/RMT, Robust/heavy-tailed statistics 
 
 Evaluation
 ------
-Scribing (10%), Homeworks (40%), In-class exam on Part I-III (25%), Final project (short research project or literature survey) (25%)
+Scribing (10%), Homeworks (40%), In-class exam on Part I-II (25%), Final project (short research project or literature survey) (25%)
 
 Recommended textbooks
 ------
