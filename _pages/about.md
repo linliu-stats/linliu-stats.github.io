@@ -14,7 +14,7 @@ I am also interested in the theory of deep learning, estimation and inference in
 
 I obtained my undergraduate degree from the [School of Life Sciences at Tongji University](https://life.tongji.edu.cn/lifeen/), under the supervision of [Professor Yong Zhang](https://zhanglab.tongji.edu.cn).
 
-I will be joining the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Fall 2020. I will also be affiliated with the [School of Mathematical Sciences](http://math.sjtu.edu.cn/) and the [SJTU-YALE Joint Center for Biostatistics](http://transmed.sjtu.edu.cn/ylhome.do?method=getHomeList&version=en).
+I will join the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/) in Fall 2020. I will also be affiliated with the [School of Mathematical Sciences](http://math.sjtu.edu.cn/) and the [SJTU-YALE Joint Center for Biostatistics](http://transmed.sjtu.edu.cn/ylhome.do?method=getHomeList&version=en).
 
 You can reach me by email: linliu.tju@gmail.com or linliu@sjtu.edu.cn
 
@@ -27,6 +27,8 @@ _Statistical theory_:
 1. LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2020+).
 
 2. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
+
+3. LL, Rajarshi Mukherjee, and James M Robins. [An assumption-lean skepticism test of inference validity for doubly robust functionals](). Technical Report.
 
 _Statistical methodology and causal inference_:
 
