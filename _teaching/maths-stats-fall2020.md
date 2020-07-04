@@ -14,15 +14,10 @@ Syllabus
 Course overview
 ------
 
-Many of the mathematical statistics courses use the classic textbook "[Statistical Inference](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf)" by Casella and Berger. But I prefer the materials selected by Prof. [Larry Wasserman](http://www.stat.cmu.edu/~larry) in his course "[Intermediate Statistics](http://www.stat.cmu.edu/~larry/=stat705/)", combined with those topics covered in books [van der Vaart (2000)](#vdv-2000) and [Giné and Nickl (2016)](#gine-nickl-2016). I believe these materials better prepare you for a research career in statistics and data science.
-
-My goal is to cover the most important ideas and results in the classical parametric statistics in the first 2 to 3 weeks of the semester and jump directly into the more advanced topics.
-
 Prerequisites: Multivariate calculus, Linear algebra, Probability (at the level of understanding the language of measure theory)
 
 Tentative plan
 ------
-I have an ambitious plan to cover within one semester. As a result, I may leave some of the topics to homework problems for you to explore.
 
 Part I: Parametric statistics
 
