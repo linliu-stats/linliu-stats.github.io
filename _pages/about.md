@@ -50,6 +50,8 @@ _Statistical and Machine Learning Applications_:
 
 1. Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
 
+ncHMR detector: [software link](https://github.com/TongjiZhanglab/ncHMR_detector/)[webserver link](http://compbio-zhanglab.org/ncHMR_detector/index.php)
+
 2. _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) Nature Structural & Molecular Biology 24, no. 11 (2017): 1000-1006.
 
 3. Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A Sakr, Britta Weigelt, Ariella B Hanker, Sarat Chandarlapaty, Tari A King, Jorge S Reis-Filho, Carlos L Arteaga, So Yeon Park, Franziska Michor, and Kornelia Polyak. [In situ single-cell analysis identifies heterogeneity for PIK3CA mutation and HER2 amplification in HER2-positive breast cancer.](https://www.nature.com/articles/ng.3391/) Nature Genetics 47, no. 10 (2015): 1212-1219.
@@ -57,5 +59,7 @@ _Statistical and Machine Learning Applications_:
 4. LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) Nature Communications 4, (2013): 1502.
 
 5. _LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [GeSICA: Genome segmentation from intra-chromosomal associations.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-164) BMC Genomics 13, no. 1 (2012): 164.
+
+GeSICA: [software link](https://zhanglab.tongji.edu.cn/softwares/GeSICA/index.html)
 
 6. Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR modelling in the analysis and design of HIV-HCV co-inhibitors: an in-silico study.](https://link.springer.com/article/10.1186/1471-2105-12-294) BMC Bioinformatics 12, no. 1 (2011): 294.
