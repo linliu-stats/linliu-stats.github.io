@@ -81,7 +81,7 @@ Nonparametric statistics
 
 <a name="ibragimov-hasminskii-1981"></a> 7. Ibragimov, Ildar A and Has'minskii, Rafail Z. Statistical estimation: asymptotic theory. Springer Science & Business Media, 1981.
 
-<a name="ingster-suslina-2002"></a> 8. Ingster, Yuri N and Suslina, Irina A. Nonparametrie Goodness-of-Fit Testing Under Gaussian Models。 Springer Science & Business Media, 2002.
+<a name="ingster-suslina-2002"></a> 8. Ingster, Yuri N and Suslina, Irina A. Nonparametric Goodness-of-Fit Testing Under Gaussian Models. Springer Science & Business Media, 2002.
 
 Probabilistic tools:
 
