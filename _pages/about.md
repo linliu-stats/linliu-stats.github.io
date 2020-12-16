@@ -28,7 +28,7 @@ _Statistical theory_:
 
 2. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
 
-3. LL, Rajarshi Mukherjee, and James M Robins. [An assumption-lean skepticism test of inference validity for doubly robust functionals.](http://linliu-stats.github.io/files/May31-Assumption-free%20test%20econ.pdf) Technical Report.
+3. LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Technical Report.
 
 _Statistical methodology and causal inference_:
 
