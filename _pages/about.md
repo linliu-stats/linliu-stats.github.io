@@ -22,7 +22,7 @@ Selected Publications
 ======
 (You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship)
 
-_Statistical theory_:
+**_Statistical theory_**:
 
 LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2021+). Under review.
 
@@ -30,7 +30,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Technical Report.
 
-_Statistical methodology and causal inference_:
+**_Statistical methodology and causal inference_**:
 
 Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
 
@@ -41,7 +41,7 @@ LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of op
 
 Haoqi Sun, Miachel Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
 
-_Mathematical biology_:
+**_Mathematical biology_**:
 
 Kimiyo N Yamamoto, LLL, Akira Nakamura, Hiroshi Haeno, and Franziska Michor. [Stochastic evolution of pancreatic cancer metastases during logistic clonal expansion.](https://ascopubs.org/doi/abs/10.1200/CCI.18.00079) JCO Clinical Cancer Informatics 3, (2019): 1-11. 
 
@@ -53,7 +53,7 @@ _Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: in
 
 _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) PLoS Computational Biology 11, no. 9 (2015): e1004350.
 
-_Statistical and Machine Learning Applications_:
+**_Statistical and Machine Learning Applications_**:
 
 _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) Nature Structural & Molecular Biology 24, no. 11 (2017): 1000-1006.
 
