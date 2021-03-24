@@ -36,6 +36,7 @@ _Statistical methodology and causal inference_:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ncHMR detector: [software link](https://github.com/TongjiZhanglab/ncHMR_detector/); [webserver link](http://compbio-zhanglab.org/ncHMR_detector/index.php)
 
+
 2. LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
 
 3. Haoqi Sun, Miachel Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
@@ -63,5 +64,6 @@ _Statistical and Machine Learning Applications_:
 4. _LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [GeSICA: Genome segmentation from intra-chromosomal associations.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-164) BMC Genomics 13, no. 1 (2012): 164.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GeSICA: [software link](https://zhanglab.tongji.edu.cn/softwares/GeSICA/index.html)
+
 
 5. Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR modelling in the analysis and design of HIV-HCV co-inhibitors: an in-silico study.](https://link.springer.com/article/10.1186/1471-2105-12-294) BMC Bioinformatics 12, no. 1 (2011): 294.
