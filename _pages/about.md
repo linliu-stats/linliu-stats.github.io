@@ -24,15 +24,21 @@ Selected Publications
 
 _Statistical theory_:
 
-1. LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2020+).
+1. LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2021+). Under review.
 
-2. LL, Rajarshi Mukherjee, and James M Robins. On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning. In press in Statistical Science. [Journal preprint](https://www.e-publications.org/ims/submission/STS/user/submissionFile/39574?confirm=b58bff70).
+2. LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/euclid.ss/1599789712) (2020). Statistical Science 35 (3), 518-539.
 
 3. LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Technical Report.
 
 _Statistical methodology and causal inference_:
 
-1. LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://arxiv.org/pdf/1908.10448) (2020+).
+1. Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ncHMR detector: [software link](https://github.com/TongjiZhanglab/ncHMR_detector/); [webserver link](http://compbio-zhanglab.org/ncHMR_detector/index.php)
+
+2. LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
+
+3. Haoqi Sun, Miachel Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
 
 _Mathematical biology_:
 
@@ -47,10 +53,6 @@ _Mathematical biology_:
 5. _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) PLoS Computational Biology 11, no. 9 (2015): e1004350.
 
 _Statistical and Machine Learning Applications_:
-
-1. Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ncHMR detector: [software link](https://github.com/TongjiZhanglab/ncHMR_detector/); [webserver link](http://compbio-zhanglab.org/ncHMR_detector/index.php)
 
 2. _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) Nature Structural & Molecular Biology 24, no. 11 (2017): 1000-1006.
 
