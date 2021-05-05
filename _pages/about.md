@@ -24,11 +24,11 @@ Selected Publications
 
 **_Statistical theory_**:
 
-LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2021+). Under review.
+LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2021+). Accepted by Journal of Machine Learning Research.
 
 LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/euclid.ss/1599789712) (2020). Statistical Science 35 (3), 518-539.
 
-LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Technical Report.
+LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Major revision in the Journal of Econometrics.
 
 **_Statistical methodology and causal inference_**:
 
