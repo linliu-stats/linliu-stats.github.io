@@ -26,7 +26,9 @@ Selected Publications
 
 LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://arxiv.org/pdf/1608.01364) (2021+). Accepted by Journal of Machine Learning Research.
 
-LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/euclid.ss/1599789712) (2020). Statistical Science 35 (3), 518-539.
+LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science 35 (3), 518-539.
+
+  See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) of our paper by Edward H. Kennedy, Sivaranan Balakrishnan, and Larry Wasserman and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short).
 
 LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Major revision in the Journal of Econometrics.
 
