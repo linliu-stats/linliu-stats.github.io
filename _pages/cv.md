@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* June 2018 - : Postdoctoral fellow
+* Sept 2020 - : Assistant Professor
+  * Institute of Natural Sciences, School of Mathematical Sciences and SJTU-Yale Center for Biostatistics and Data Science, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)
+* June 2018 - July 2020: Postdoctoral fellow
   * Department of Epidemiology, [Harvard University](https://www.hsph.harvard.edu/epidemiology/)
 
 Service
