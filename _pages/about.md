@@ -34,11 +34,6 @@ LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validi
 
 **_Statistical methodology and causal inference_**:
 
-Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ncHMR detector: [software link](https://github.com/TongjiZhanglab/ncHMR_detector/); [webserver link](http://compbio-zhanglab.org/ncHMR_detector/index.php)
-
-
 LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
 
 Haoqi Sun, Miachel Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
@@ -56,6 +51,12 @@ _Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: in
 _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) PLoS Computational Biology 11, no. 9 (2015): e1004350.
 
 **_Statistical and Machine Learning Applications_**:
+
+Michael J Leone, Haoqi Sun, Christine L Boutros, Lin Liu, Elissa Ye, Lee Sullivan, Robert J Thomas, Gregory K Robbins, Shibani S Mukerji, M Brandon Westover. [HIV Increases Sleep-based Brain Age Despite Antiretroviral Therapy](https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsab058/6204183) Sleep (2021).
+
+Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) Genome Biology 21, no. 1 (2020): 48.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ncHMR detector: [software link](https://github.com/TongjiZhanglab/ncHMR_detector/); [webserver link](http://compbio-zhanglab.org/ncHMR_detector/index.php)
 
 _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) Nature Structural & Molecular Biology 24, no. 11 (2017): 1000-1006.
 
