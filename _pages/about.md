@@ -69,3 +69,5 @@ _LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [G
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GeSICA: [software link](https://zhanglab.tongji.edu.cn/softwares/GeSICA/index.html)
 
 Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR modelling in the analysis and design of HIV-HCV co-inhibitors: an in-silico study.](https://link.springer.com/article/10.1186/1471-2105-12-294) BMC Bioinformatics 12, no. 1 (2011): 294.
+
+**_Miscellenous_**:
