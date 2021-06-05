@@ -40,7 +40,7 @@ Haoqi Sun, Miachel Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Wes
 
 **_Statistical Computing_**:
 
-Lei Li, LL, Yuzhou Peng. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406). Submitted.
+Lei Li, LL, Yuzhou Peng. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406) (2021+). Submitted.
 
 **_Mathematical biology_**:
 
