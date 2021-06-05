@@ -38,6 +38,10 @@ LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of op
 
 Haoqi Sun, Miachel Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
 
+**_Statistical Computing_**:
+
+Lei Li, LL, Yuzhou Peng. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406). Submitted.
+
 **_Mathematical biology_**:
 
 Kimiyo N Yamamoto, LLL, Akira Nakamura, Hiroshi Haeno, and Franziska Michor. [Stochastic evolution of pancreatic cancer metastases during logistic clonal expansion.](https://ascopubs.org/doi/abs/10.1200/CCI.18.00079) JCO Clinical Cancer Informatics 3, (2019): 1-11. 
@@ -69,5 +73,3 @@ _LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [G
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GeSICA: [software link](https://zhanglab.tongji.edu.cn/softwares/GeSICA/index.html)
 
 Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR modelling in the analysis and design of HIV-HCV co-inhibitors: an in-silico study.](https://link.springer.com/article/10.1186/1471-2105-12-294) BMC Bioinformatics 12, no. 1 (2011): 294.
-
-**_Miscellaneous_**:
