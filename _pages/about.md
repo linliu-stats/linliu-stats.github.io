@@ -36,7 +36,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validi
 
 LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
 
-Haoqi Sun, Miachel Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
+Haoqi Sun, Michael Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
 
 **_Statistical Computing_**:
 
