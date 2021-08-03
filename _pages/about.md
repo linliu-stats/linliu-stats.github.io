@@ -24,13 +24,13 @@ Selected Publications
 
 **_Statistical theory_**:
 
-LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021+). Accepted by Journal of Machine Learning Research.
+LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research 22 (99), 1-66.
 
 LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science 35 (3), 518-539. ([arXiv: 1904.04276](https://arxiv.org/abs/1904.04276))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/abs/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/abs/2008.03288)).
 
-LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Major revision in the Journal of Econometrics.
+LL, Rajarshi Mukherjee, and James M Robins. [Assumption-Lean Tests of the Validity of Published Double-Machine-Learning Wald Confidence Intervals for Doubly-Robust Functionals.](http://linliu-stats.github.io/files/Dec16-Assumption-free%20test%20econ.pdf) Under revision.
 
 **_Statistical methodology and causal inference_**:
 
