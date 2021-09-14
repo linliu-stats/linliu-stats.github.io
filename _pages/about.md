@@ -56,7 +56,7 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 
 **_Statistical and Machine Learning Applications_**:
 
-Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).]() (2021+). Accepted to Clinical Gastroenterology and Hepatology.
+Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.cghjournal.org/article/S1542-3565(21)00973-3/pdf) (2021+). Accepted to Clinical Gastroenterology and Hepatology.
 
 Michael J Leone, Haoqi Sun, Christine L Boutros, LL, Elissa Ye, Lee Sullivan, Robert J Thomas, Gregory K Robbins, Shibani S Mukerji, M Brandon Westover. [HIV Increases Sleep-based Brain Age Despite Antiretroviral Therapy.](https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsab058/6204183) (2021). Sleep.
 
