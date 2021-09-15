@@ -78,4 +78,4 @@ Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR mo
 
 **_Miscellaneous_**:
 
-LL. [Book Review: Matrix-Based Introduction to Multivariate Data Analysis 2nd Edition by Kohei Adachi.]() (2021). Accepted to Biometrics.
+LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.]() (2021). In press in Biometrics.
