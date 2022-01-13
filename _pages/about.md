@@ -34,6 +34,8 @@ LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of
 
 **_Statistical methodology and causal inference_**:
 
+Siqi Xu, LL, Zhonghua Liu. DeepMed: Semiparametric causal mediation analysis with deep learning. Under preparation.
+
 LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
 
 Haoqi Sun, Michael Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
