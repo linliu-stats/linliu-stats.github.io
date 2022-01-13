@@ -22,6 +22,14 @@ Selected Papers
 ======
 (You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship)
 
+**_Working papers_**:
+
+LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of the validity of Wald confidence intervals of doubly robust functionals may be incorrect, without assumptions?](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/Oct24-Assumption-free%20test%20econ%20(ref%20together).pdf) Under revision.
+
+Siqi Xu, LL, Zhonghua Liu. DeepMed: Semiparametric causal mediation analysis with deep learning. Under preparation.
+
+Haoqi Sun, Michael Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
+
 **_Statistical theory_**:
 
 LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research 22 (99), 1-66.
@@ -30,15 +38,9 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/abs/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/abs/2008.03288)).
 
-LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of the validity of Wald confidence intervals of doubly robust functionals may be incorrect, without assumptions?](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/Oct24-Assumption-free%20test%20econ%20(ref%20together).pdf) Under revision.
-
 **_Statistical methodology and causal inference_**:
 
-Siqi Xu, LL, Zhonghua Liu. DeepMed: Semiparametric causal mediation analysis with deep learning. Under preparation.
-
 LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
-
-Haoqi Sun, Michael Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
 
 **_Statistical Computing_**:
 
