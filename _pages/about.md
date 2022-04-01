@@ -24,6 +24,8 @@ Selected Papers
 
 **_Working papers_**:
 
+James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
+
 LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of the validity of Wald confidence intervals of doubly robust functionals may be incorrect, without assumptions?](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/Oct24-Assumption-free%20test%20econ%20(ref%20together).pdf) Under revision.
 
 <!--- Siqi Xu, LL#, Zhonghua Liu#. DeepMed: Semiparametric causal mediation analysis with deep learning. Under preparation.--->
