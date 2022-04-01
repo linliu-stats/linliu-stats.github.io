@@ -20,7 +20,7 @@ You can reach me by email: [linliu@alumni.tongji.edu.cn](linliu@alumni.tongji.ed
 
 Selected Papers
 ======
-(You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship; #: (co)-corresponding authors)
+(You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship; #: (co)-corresponding authors)
 
 **_Working papers_**:
 
