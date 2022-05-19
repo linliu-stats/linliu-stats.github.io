@@ -26,9 +26,9 @@ Selected Papers
 
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
 
-LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.]() Available upon request.
+LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/Revision_Arxiv_Empirical_HOIF.pdf) Available upon request.
 
-LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of the validity of Wald confidence intervals of doubly robust functionals may be incorrect, without assumptions?](https://github.com/linliu-stats/linliu-stats.github.io/raw/master/files/Oct24-Assumption-free%20test%20econ%20(ref%20together).pdf) Under revision.
+LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of the validity of Wald confidence intervals of doubly robust functionals may be incorrect, without assumptions?](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/Oct24-Assumption-free%20test%20econ%20(ref%20together).pdf) Under revision.
 
 <!--- Siqi Xu, LL#, Zhonghua Liu#. DeepMed: Semiparametric causal mediation analysis with deep learning. Under preparation.--->
 
