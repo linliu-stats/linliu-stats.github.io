@@ -26,6 +26,8 @@ Selected Papers
 
 LL, and Chang Li. [New semiparametric efficient, numerically stable higher-order influence function estimators.]() Under preparation.
 
+Siqi Xu, LL, and Zhonghua Liu. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.]() Submitted.
+
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://github.com/linliu-stats/linliu-stats.github.io/raw/master/files/Revision_Arxiv_Empirical_HOIF.pdf) Under review.
