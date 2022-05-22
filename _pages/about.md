@@ -36,8 +36,6 @@ LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of
 
 <!--- Siqi Xu, LL#, Zhonghua Liu#. DeepMed: Semiparametric causal mediation analysis with deep learning. Under preparation.--->
 
-Haoqi Sun, Michael Leon, LL, Shabani S Mukerji, Gregory K Robbins, M Brandon Westover. [Clinically Relevant Mediation Analysis using Controlled Indirect Effect.](https://arxiv.org/pdf/2006.11689) (2021+). Under review.
-
 **_Statistical theory_**:
 
 LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research 22 (99), 1-66.
