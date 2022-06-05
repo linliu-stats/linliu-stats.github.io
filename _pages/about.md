@@ -28,6 +28,8 @@ LL, and Chang Li. [New semiparametric efficient, numerically stable higher-order
 
 Siqi Xu, LL, and Zhonghua Liu. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](http://linliu-stats.github.io/files/DeepMed.pdf) Submitted.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://rdrr.io/github/siqixu/DeepMediation/)
+
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](http://linliu-stats.github.io/files/Revision_Arxiv_Empirical_HOIF.pdf) Under review.
@@ -67,6 +69,8 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 **_Statistical and Machine Learning Applications_**:
 
 Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang (2021+). Accurate estimation of intrinsic biases for improved analysis of chromatin accessibility sequencing data using SELMA. Under review. [bioRxiv link](https://www.biorxiv.org/content/10.1101/2021.10.22.465530v1.full.pdf).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SELMA: [software link](https://github.com/linliu-stats/SELMA)
 
 Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.cghjournal.org/article/S1542-3565(21)00973-3/pdf) (2021+). In press in Clinical Gastroenterology and Hepatology.
 
