@@ -52,7 +52,7 @@ LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of op
 
 **_Statistical Computing_**:
 
-Lei Li, LL, Yuzhou Peng. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406) (2021+). Submitted.
+Lei Li, LL, Yuzhou Peng. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406) (2022). Accepted by CSIAM Transactions on Applied Mathematics.
 
 **_Mathematical biology_**:
 
