@@ -72,7 +72,7 @@ Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SELMA: [software link](https://github.com/linliu-stats/SELMA)
 
-Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).]() (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4. 
+Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.sciencedirect.com/science/article/pii/S1542356521009733) (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4. 
 
 Michael J Leone, Haoqi Sun, Christine L Boutros, LL, Elissa Ye, Lee Sullivan, Robert J Thomas, Gregory K Robbins, Shibani S Mukerji, M Brandon Westover. [HIV Increases Sleep-based Brain Age Despite Antiretroviral Therapy.](https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsab058/6204183) (2021). Sleep 44 (8): zsab058.
 
