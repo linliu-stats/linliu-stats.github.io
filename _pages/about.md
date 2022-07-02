@@ -52,7 +52,7 @@ LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of op
 
 **_Statistical Computing_**:
 
-Lei Li, LL, Yuzhou Peng. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406) (2022). Accepted by CSIAM Transactions on Applied Mathematics.
+Lei Li, LL, Yuzhou Peng. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406) (2022). In press in CSIAM Transactions on Applied Mathematics.
 
 **_Mathematical biology_**:
 
@@ -72,7 +72,7 @@ Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SELMA: [software link](https://github.com/linliu-stats/SELMA)
 
-Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.cghjournal.org/article/S1542-3565(21)00973-3/pdf) (2021+). In press in Clinical Gastroenterology and Hepatology.
+Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).]() (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4. 
 
 Michael J Leone, Haoqi Sun, Christine L Boutros, LL, Elissa Ye, Lee Sullivan, Robert J Thomas, Gregory K Robbins, Shibani S Mukerji, M Brandon Westover. [HIV Increases Sleep-based Brain Age Despite Antiretroviral Therapy.](https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsab058/6204183) (2021). Sleep 44 (8): zsab058.
 
