@@ -68,6 +68,8 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 
 **_Statistical and Machine Learning Applications_**:
 
+Nana Wei, Yating Nie, LL, Xiaoqi Zheng and Hua-Jun Wu (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. [arXiv link](https://arxiv.org/pdf/2205.12432).
+
 Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang (2021+). Accurate estimation of intrinsic biases for improved analysis of chromatin accessibility sequencing data using SELMA. Under review. [bioRxiv link](https://www.biorxiv.org/content/10.1101/2021.10.22.465530v1.full.pdf).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SELMA: [software link](https://github.com/linliu-stats/SELMA)
