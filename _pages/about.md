@@ -26,10 +26,6 @@ Selected Papers
 
 LL, and Chang Li. [New semiparametric efficient, numerically stable higher-order influence function estimators.]() Under preparation.
 
-Siqi Xu, LL, and Zhonghua Liu. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.]() Submitted.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://rdrr.io/github/siqixu/DeepMediation/)
-
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.]() Under review.
@@ -47,6 +43,10 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/abs/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/abs/2008.03288)).
 
 **_Statistical methodology and causal inference_**:
+
+Siqi Xu, LL, and Zhonghua Liu. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.]() Accepted by NeurIPS 2022.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://rdrr.io/github/siqixu/DeepMediation/)
 
 LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
 
