@@ -46,7 +46,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 Siqi Xu, LL#, and Zhonghua Liu#. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.]() Accepted by NeurIPS 2022.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://rdrr.io/github/siqixu/DeepMediation/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://rdrr.io/github/siqixu/DeepMediation/](https://github.com/siqixu/DeepMed).
 
 LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
 
