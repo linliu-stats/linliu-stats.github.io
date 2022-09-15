@@ -44,7 +44,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 **_Statistical methodology and causal inference_**:
 
-Siqi Xu, LL, and Zhonghua Liu. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.]() Accepted by NeurIPS 2022.
+Siqi Xu, LL#, and Zhonghua Liu#. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.]() Accepted by NeurIPS 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://rdrr.io/github/siqixu/DeepMediation/)
 
