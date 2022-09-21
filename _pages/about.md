@@ -70,7 +70,7 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 
 Nana Wei, Yating Nie, LL, Xiaoqi Zheng and Hua-Jun Wu (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. [arXiv link](https://arxiv.org/pdf/2205.12432).
 
-Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. [Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA.](https://www.nature.com/articles/s41467-022-33194-z) (2022). Nature Communications, 13 (5533).
+Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. [Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA.](https://www.nature.com/articles/s41467-022-33194-z) (2022). Nature Communications, 13: 5533.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SELMA: [software link](https://github.com/linliu-stats/SELMA)
 
