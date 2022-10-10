@@ -20,7 +20,7 @@ You can reach me by email: [linliu@alumni.tongji.edu.cn](linliu@alumni.tongji.ed
 
 Selected Papers
 ======
-(You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship; #: (co)-corresponding authors; $: student mentee)
+(You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship; <sup>#</sup>: (co)-corresponding authors; <sup>$</sup>: student mentee)
 
 **_Working papers_**:
 
@@ -42,7 +42,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 **_Statistical methodology and causal inference_**:
 
-Siqi Xu$, LL#, and Zhonghua Liu#. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://nips.cc/Conferences/2022/Schedule?showEvent=54251) Accepted by NeurIPS 2022.
+Siqi Xu<sup>$</sup>, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://nips.cc/Conferences/2022/Schedule?showEvent=54251) Accepted by NeurIPS 2022.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
@@ -50,7 +50,7 @@ LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of op
 
 **_Statistical Computing_**:
 
-Lei Li, LL, Yuzhou Peng*. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406) (2022). In press in CSIAM Transactions on Applied Mathematics.
+Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://arxiv.org/abs/2105.14406) (2022). In press in CSIAM Transactions on Applied Mathematics.
 
 **_Mathematical biology_**:
 
@@ -94,6 +94,6 @@ Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR mo
 
 **_Miscellaneous_**:
 
-Zixiao Wang$, Yi Feng$, LL#. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.]() (2022). In press in _Journal of the American Statistical Association: Theory and Methods_.
+Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.]() (2022). In press in _Journal of the American Statistical Association: Theory and Methods_.
 
 LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics 77 (4): 1498-1500.
