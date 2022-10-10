@@ -94,6 +94,6 @@ Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR mo
 
 **_Miscellaneous_**:
 
-Zixiao Wang*, Yi Feng*, LL#. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.]() (2022). In press in _Journal of the American Statistical Association_.
+Zixiao Wang*, Yi Feng*, LL#. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.]() (2022). In press in _Journal of the American Statistical Association: Theory and Methods_.
 
 LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics 77 (4): 1498-1500.
