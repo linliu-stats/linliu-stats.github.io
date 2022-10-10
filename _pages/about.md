@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Chang Li$ and LL#. [New semiparametric efficient, numerically stable higher-order influence function estimators.]() Under preparation.
+Chang Li<sup>$</sup> and LL<sup>#</sup>. [New semiparametric efficient, numerically stable higher-order influence function estimators.]() Under preparation.
 
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
 
