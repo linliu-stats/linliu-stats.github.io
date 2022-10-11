@@ -32,7 +32,7 @@ LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric effi
 
 LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of the validity of Wald confidence intervals of doubly robust functionals may be incorrect, without assumptions?](http://linliu-stats.github.io/files/Oct24-Assumption-free%20test%20econ%20(ref%20together).pdf) Under revision.
 
-**_Statistical theory_**:
+**_Statistical and learning theory_**:
 
 LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research 22 (99), 1-66.
 
@@ -40,7 +40,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/abs/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/abs/2008.03288)).
 
-**_Statistical methodology and causal inference_**:
+**_Statistical and causal inference methodology_**:
 
 Siqi Xu<sup>$</sup>, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://nips.cc/Conferences/2022/Schedule?showEvent=54251) Accepted by NeurIPS 2022.
 
