@@ -24,6 +24,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. [arXiv link](https://arxiv.org/pdf/2205.12432). Under review.
+
 Chang Li<sup>$</sup> and LL<sup>#</sup>. [New semiparametric efficient, numerically stable higher-order influence function estimators.]() Under preparation.
 
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
@@ -65,8 +67,6 @@ _Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: in
 _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) (2015). PLoS Computational Biology 11 (9): e1004350.
 
 **_Statistical and Machine Learning Applications_**:
-
-Nana Wei, Yating Nie, LL, Xiaoqi Zheng and Hua-Jun Wu (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. [arXiv link](https://arxiv.org/pdf/2205.12432).
 
 Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. [Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA.](https://www.nature.com/articles/s41467-022-33194-z) (2022). Nature Communications, 13: 5533.
 
