@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. [arXiv link](https://arxiv.org/pdf/2205.12432). Under review.
+Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. Under review. [arXiv link](https://arxiv.org/pdf/2205.12432).
 
 Chang Li<sup>$</sup> and LL<sup>#</sup>. [New semiparametric efficient, numerically stable higher-order influence function estimators.]() Under preparation.
 
