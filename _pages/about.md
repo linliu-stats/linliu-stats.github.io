@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. Under review. [arXiv link](https://arxiv.org/pdf/2205.12432).
+Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. Provisionally Accepted by PLOS Computational Biology. [arXiv link](https://arxiv.org/pdf/2205.12432).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secuer: [software link](https://github.com/nanawei11/Secuer)
 
