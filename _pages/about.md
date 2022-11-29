@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. Provisionally Accepted by PLOS Computational Biology. [arXiv link](https://arxiv.org/pdf/2205.12432).
+Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data. Provisionally Accepted by PLOS Computational Biology. [arXiv: 2205.12432](https://arxiv.org/pdf/2205.12432).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secuer: [software link](https://github.com/nanawei11/Secuer)
 
@@ -40,21 +40,21 @@ LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of
 
 LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research 22 (99), 1-66.
 
-LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science 35 (3), 518-539. ([arXiv: 1904.04276](https://arxiv.org/abs/1904.04276))
+LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science 35 (3), 518-539. ([arXiv: 1904.04276](https://arxiv.org/pdf/1904.04276))
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/abs/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/abs/2008.03288)).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288)).
 
 **_Statistical and causal inference methodology_**:
 
-Siqi Xu<sup>$</sup>, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://nips.cc/Conferences/2022/Schedule?showEvent=54251) Accepted by NeurIPS 2022. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
+Siqi Xu<sup>$</sup>, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://nips.cc/Conferences/2022/Schedule?showEvent=54251) NeurIPS 2022. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
-LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association 116 (533), 224-239.
+LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods. 116 (533), 224-239.
 
 **_Statistical Computing_**:
 
-Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://www.global-sci.com/intro/online/read?online_id=1784) (2022). In press in CSIAM Transactions on Applied Mathematics. ([arXiv:2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
+Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://www.global-sci.com/intro/online/read?online_id=1784) (2022). CSIAM Transactions on Applied Mathematics. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
 **_Mathematical biology_**:
 
@@ -66,7 +66,7 @@ LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander
 
 _Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: integrating quantitative models.](https://www.nature.com/articles/nrc4029) (2015). Nature Reviews Cancer 15 (12): 730-745.
 
-_Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) (2015). PLoS Computational Biology 11 (9): e1004350.
+_Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) (2015). PLOS Computational Biology 11 (9): e1004350.
 
 **_Statistical and Machine Learning Applications_**:
 
@@ -96,6 +96,6 @@ Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR mo
 
 **_Miscellaneous_**:
 
-Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). In press in _Journal of the American Statistical Association: Theory and Methods_.
+Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). Journal of the American Statistical Association: Theory and Methods.
 
 LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics 77 (4): 1498-1500.
