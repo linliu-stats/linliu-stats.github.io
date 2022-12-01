@@ -76,12 +76,6 @@ Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke
 
 Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.sciencedirect.com/science/article/pii/S1542356521009733) (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4. 
 
-Michael J Leone, Haoqi Sun, Christine L Boutros, LL, Elissa Ye, Lee Sullivan, Robert J Thomas, Gregory K Robbins, Shibani S Mukerji, M Brandon Westover. [HIV Increases Sleep-based Brain Age Despite Antiretroviral Therapy.](https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsab058/6204183) (2021). Sleep 44 (8): zsab058.
-
-Sheng'en Hu, Dawei Huo, Zhaowei Yu, Yujie Chen, Jing Liu, LL, Xudong Wu, and Yong Zhang. [ncHMR detector: a computational framework to systematically reveal non-classical functions of histone modification regulators.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01953-0) (2020). Genome Biology 21 (1): 48.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ncHMR detector: [software link](https://github.com/TongjiZhanglab/ncHMR_detector/); [webserver link](http://compbio-zhanglab.org/ncHMR_detector/index.php)
-
 _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) (2017). Nature Structural & Molecular Biology 24 (11): 1000-1006.
 
 Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A Sakr, Britta Weigelt, Ariella B Hanker, Sarat Chandarlapaty, Tari A King, Jorge S Reis-Filho, Carlos L Arteaga, So Yeon Park, Franziska Michor, and Kornelia Polyak. [In situ single-cell analysis identifies heterogeneity for PIK3CA mutation and HER2 amplification in HER2-positive breast cancer.](https://www.nature.com/articles/ng.3391/) (2015). Nature Genetics 47 (10): 1212-1219.
@@ -91,8 +85,6 @@ LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-orde
 _LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [GeSICA: Genome segmentation from intra-chromosomal associations.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-164) (2012). BMC Genomics 13 (1): 164.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GeSICA: [software link](https://zhanglab.tongji.edu.cn/softwares/GeSICA/index.html)
-
-Qi Liu, Han Zhou, LL, Xi Chen, Ruixin Zhu, and Zhiwei Cao. [Multi-target QSAR modelling in the analysis and design of HIV-HCV co-inhibitors: an in-silico study.](https://link.springer.com/article/10.1186/1471-2105-12-294) (2011). BMC Bioinformatics 12 (1): 294.
 
 **_Miscellaneous_**:
 
