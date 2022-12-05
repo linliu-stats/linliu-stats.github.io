@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to [Lin Liu (刘林)](https://linliu-stats.github.io/)'s homepage"
+title: "Welcome to [Lin Liu](https://linliu-stats.github.io/)'s homepage"
 excerpt: "Personal Information"
 author_profile: true
 redirect_from: 
@@ -42,7 +42,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 **_Statistical and Causal Inference Methodology_**:
 
-Siqi Xu<sup>$</sup>, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://nips.cc/Conferences/2022/Schedule?showEvent=54251) NeurIPS 2022. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
+Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://nips.cc/Conferences/2022/Schedule?showEvent=54251) NeurIPS 2022. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
