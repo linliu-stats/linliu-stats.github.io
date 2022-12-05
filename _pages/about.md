@@ -64,8 +64,6 @@ Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke
 
 Kimiyo N Yamamoto, LLL, Akira Nakamura, Hiroshi Haeno, and Franziska Michor. [Stochastic evolution of pancreatic cancer metastases during logistic clonal expansion.](https://ascopubs.org/doi/abs/10.1200/CCI.18.00079) (2019). JCO Clinical Cancer Informatics 3: 1-11. 
 
-Helena A Yu, Camelia Sima, Daniel Feldman, LLL, Bhavapriya Vaitheesvaran, Justin Cross, Charles M Rudin, Mark G Kris, William Pao, Franziska Michor, and Gregory J Riely. [Phase 1 study of twice weekly pulse dose and daily low-dose erlotinib as initial treatment for patients with EGFR-mutant lung cancers.](https://academic.oup.com/annonc/article-abstract/28/2/278/2676878) (2019). Annals of Oncology 28 (2): 278-284.
-
 _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) (2017). Nature Structural & Molecular Biology 24 (11): 1000-1006.
 
 LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. [Probabilistic modeling of reprogramming to induced pluripotent stem cells.](https://www.sciencedirect.com/science/article/pii/S2211124716316540) (2016). Cell Reports 17 (12): 3395-3406.
