@@ -54,7 +54,7 @@ Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method
 
 **_Mathematical and Computational Biology_**:
 
-Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022+). [Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) In press in PLOS Computational Biology. [arXiv: 2205.12432](https://arxiv.org/pdf/2205.12432).
+Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup> (2022). [Secuer: ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) PLOS Computational Biology, 18 (12): e1010753. [arXiv: 2205.12432](https://arxiv.org/pdf/2205.12432).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secuer: [software link](https://github.com/nanawei11/Secuer)
 
