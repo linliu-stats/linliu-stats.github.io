@@ -62,8 +62,6 @@ Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SELMA: [software link](https://github.com/linliu-stats/SELMA)
 
-Kimiyo N Yamamoto, LLL, Akira Nakamura, Hiroshi Haeno, and Franziska Michor. [Stochastic evolution of pancreatic cancer metastases during logistic clonal expansion.](https://ascopubs.org/doi/abs/10.1200/CCI.18.00079) (2019). JCO Clinical Cancer Informatics 3: 1-11. 
-
 _Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) (2017). Nature Structural & Molecular Biology 24 (11): 1000-1006.
 
 LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. [Probabilistic modeling of reprogramming to induced pluripotent stem cells.](https://www.sciencedirect.com/science/article/pii/S2211124716316540) (2016). Cell Reports 17 (12): 3395-3406.
@@ -73,10 +71,6 @@ _Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: in
 _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) (2015). PLOS Computational Biology 11 (9): e1004350.
 
 LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) (2013). Nature Communications 4: 1502.
-
-_LL_, _Yiqian Zhang_, Jianxing Feng, Ning Zheng, Junfeng Yin, and Yong Zhang. [GeSICA: Genome segmentation from intra-chromosomal associations.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-164) (2012). BMC Genomics 13 (1): 164.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GeSICA: [software link](https://zhanglab.tongji.edu.cn/softwares/GeSICA/index.html)
 
 **_Statistical and Machine Learning Applications_**:
 
