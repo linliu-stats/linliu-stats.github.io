@@ -83,3 +83,8 @@ Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A
 Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). Journal of the American Statistical Association: Theory and Methods.
 
 LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics 77 (4): 1498-1500.
+
+Service
+======
+
+Area chair for CLeaR 2023.
