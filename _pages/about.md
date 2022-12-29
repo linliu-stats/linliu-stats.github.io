@@ -87,4 +87,4 @@ LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd 
 Service
 ======
 
-Area chair for CLeaR 2023.
+Area Chair (AC) for [CLeaR 2023](https://www.cclear.cc/2023).
