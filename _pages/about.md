@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to [Lin Liu](https://linliu-stats.github.io/)'s homepage"
+title: "Lin Liu's website"
 excerpt: "Personal Information"
 author_profile: true
 redirect_from: 
