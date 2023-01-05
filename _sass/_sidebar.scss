@@ -20,7 +20,7 @@
             transition: opacity 0.2s ease-in-out;
 
     &:hover {
-      opacity: 1;
+      opacity: 0;
     }
   }
 
@@ -84,7 +84,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
