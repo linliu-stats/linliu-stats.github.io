@@ -84,6 +84,15 @@ Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Sem
 
 LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics, 77 (4): 1498-1500.
 
+Teaching
+======
+Fall 2020: Computational methods (undergraduate students in engineering or economics @ SJTU)
+
+Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU)
+
+Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
+
+
 Service
 ======
 
