@@ -34,9 +34,9 @@ LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of
 
 **_Statistical and Learning Theory_**:
 
-LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research 22 (99), 1-66.
+LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
-LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science 35 (3), 518-539. ([arXiv: 1904.04276](https://arxiv.org/pdf/1904.04276))
+LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science, 35 (3): 518-539. ([arXiv: 1904.04276](https://arxiv.org/pdf/1904.04276))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288)).
 
@@ -46,7 +46,7 @@ Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
-LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods. 116 (533), 224-239.
+LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239.
 
 **_Statistical Computing_**:
 
@@ -62,27 +62,27 @@ Sheng'en S. Hu, LL, Qi Li, Wenjing Ma, Michael J. Guertin, Clifford A. Meyer, Ke
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SELMA: [software link](https://github.com/linliu-stats/SELMA)
 
-_Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) (2017). Nature Structural & Molecular Biology 24 (11): 1000-1006.
+_Kyle S Smith_, _LLL_, Shridar Ganesan, Franziska Michor, and Subhajyoti De. [Nuclear topology modulates the mutational landscapes of cancer genomes.](https://www.nature.com/nsmb/journal/v24/n11/abs/nsmb.3474.html) (2017). Nature Structural & Molecular Biology, 24 (11): 1000-1006.
 
-LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. [Probabilistic modeling of reprogramming to induced pluripotent stem cells.](https://www.sciencedirect.com/science/article/pii/S2211124716316540) (2016). Cell Reports 17 (12): 3395-3406.
+LLL, Justin Brumbaugh, Ori Bar-Nur, Zachary Smith, Matthias Stadtfeld, Alexander Meissner, Konrad Hochedlinger, and Franziska Michor. [Probabilistic modeling of reprogramming to induced pluripotent stem cells.](https://www.sciencedirect.com/science/article/pii/S2211124716316540) (2016). Cell Reports, 17 (12): 3395-3406.
 
-_Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: integrating quantitative models.](https://www.nature.com/articles/nrc4029) (2015). Nature Reviews Cancer 15 (12): 730-745.
+_Philipp M Altrock_, _LLL_, and Franziska Michor. [The mathematics of cancer: integrating quantitative models.](https://www.nature.com/articles/nrc4029) (2015). Nature Reviews Cancer, 15 (12): 730-745.
 
-_Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) (2015). PLOS Computational Biology 11 (9): e1004350.
+_Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer, and Franziska Michor. [An evolutionary approach for identifying driver mutations in colorectal cancer.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004350) (2015). PLOS Computational Biology, 11 (9): e1004350.
 
-LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) (2013). Nature Communications 4: 1502.
+LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) (2013). Nature Communications, 4: 1502.
 
 **_Statistical and Machine Learning Applications_**:
 
 Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.sciencedirect.com/science/article/pii/S1542356521009733) (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4. 
 
-Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A Sakr, Britta Weigelt, Ariella B Hanker, Sarat Chandarlapaty, Tari A King, Jorge S Reis-Filho, Carlos L Arteaga, So Yeon Park, Franziska Michor, and Kornelia Polyak. [In situ single-cell analysis identifies heterogeneity for PIK3CA mutation and HER2 amplification in HER2-positive breast cancer.](https://www.nature.com/articles/ng.3391/) (2015). Nature Genetics 47 (10): 1212-1219.
+Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A Sakr, Britta Weigelt, Ariella B Hanker, Sarat Chandarlapaty, Tari A King, Jorge S Reis-Filho, Carlos L Arteaga, So Yeon Park, Franziska Michor, and Kornelia Polyak. [In situ single-cell analysis identifies heterogeneity for PIK3CA mutation and HER2 amplification in HER2-positive breast cancer.](https://www.nature.com/articles/ng.3391/) (2015). Nature Genetics, 47 (10): 1212-1219.
 
 **_Miscellaneous_**:
 
-Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). Journal of the American Statistical Association: Theory and Methods.
+Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). Journal of the American Statistical Association: Theory and Methods, 117 (540): 2283-2287.
 
-LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics 77 (4): 1498-1500.
+LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics, 77 (4): 1498-1500.
 
 Service
 ======
