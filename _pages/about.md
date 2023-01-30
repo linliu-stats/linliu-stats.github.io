@@ -98,4 +98,4 @@ Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (
 Service
 ======
 
-<!--Area Chair (AC) for [CLeaR 2023](https://www.cclear.cc/2023).-->
+Area Chair (AC) for [CLeaR 2023](https://www.cclear.cc/2023).
