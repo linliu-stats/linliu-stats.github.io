@@ -92,6 +92,8 @@ Fall 2020 -- now: Advanced mathematical statistics (graduate students in statist
 
 Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
 
+Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics and economics @ SJTU)
+
 
 Service
 ======
