@@ -101,4 +101,5 @@ Area Chair (AC) for [CLeaR 2023](https://www.cclear.cc/2023).
 
 Links
 ======
-[A reading seminar on interacting particle systems](https://ins.sjtu.edu.cn/research-group/particles/) organzied by [Lei Li](https://ins.sjtu.edu.cn/people/leili/)
+[A reading group on interacting particle systems](https://ins.sjtu.edu.cn/research-group/particles/) organzied by [Lei Li](https://ins.sjtu.edu.cn/people/leili/)
+
