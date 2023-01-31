@@ -97,5 +97,8 @@ Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (
 
 Service
 ======
-
 Area Chair (AC) for [CLeaR 2023](https://www.cclear.cc/2023).
+
+Link
+======
+[A reading seminar on interacting particle systems](https://ins.sjtu.edu.cn/research-group/particles/)
