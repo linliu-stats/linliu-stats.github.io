@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Chang Li<sup>$</sup> and LL<sup>#</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.]() Working draft.
+Chang Li<sup>$</sup> and LL<sup>#</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](http://linliu-stats.github.io/files/sHOIF.pdf) Working draft.
 
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
 
