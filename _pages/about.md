@@ -24,9 +24,9 @@ Selected Papers
 
 **_Working papers_**:
 
-_Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, Lin Liu<sup>#</sup>, Zhonghua Liu<sup>#</sup>, and Lei Zhang<sup>#</sup>. [Towards neural semiparametric statistics and causal inference.]() In preparation.
+_Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>, and Lei Zhang<sup>#</sup>. [Towards neural semiparametric statistics and causal inference.]() In preparation.
 
-Chang Li<sup>$</sup> and LL<sup>#</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](http://linliu-stats.github.io/files/sHOIF.pdf) Working draft.
+LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](http://linliu-stats.github.io/files/sHOIF.pdf) Working draft.
 
 James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
 
