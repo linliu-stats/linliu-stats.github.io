@@ -20,9 +20,11 @@ You can reach me by email: [linliu@alumni.tongji.edu.cn](linliu@alumni.tongji.ed
 
 Selected Papers
 ======
-(You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship; <sup>#</sup>: (co)-corresponding authorship; <sup>$</sup>: student mentee)
+(You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship; <sup>#</sup>: (co-)corresponding authorship; <sup>$</sup>: student mentee)
 
 **_Working papers_**:
+
+_Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, Lin Liu<sup>#</sup>, Zhonghua Liu<sup>#</sup>, and Lei Zhang<sup>#</sup>. [Towards neural semiparametric statistics and causal inference.]() In preparation.
 
 Chang Li<sup>$</sup> and LL<sup>#</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](http://linliu-stats.github.io/files/sHOIF.pdf) Working draft.
 
