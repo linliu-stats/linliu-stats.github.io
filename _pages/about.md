@@ -48,7 +48,7 @@ Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
-LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239.
+LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239. ([arXiv: 1908.10448](https://arxiv.org/pdf/1908.10448.pdf)).
 
 **_Statistical Computing_**:
 
