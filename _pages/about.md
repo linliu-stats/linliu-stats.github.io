@@ -32,7 +32,7 @@ James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, an
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.]() Under review.
 
-LL, Rajarshi Mukherjee, and James M Robins. [Can we tell if the justification of the validity of Wald confidence intervals of doubly robust functionals may be incorrect, without assumptions?](http://linliu-stats.github.io/files/Oct24-Assumption-free%20test%20econ%20(ref%20together).pdf) Under revision.
+LL, Rajarshi Mukherjee, and James M Robins. [Can we falsify the justification of the validity of published Wald confidence intervals of doubly robust functionals, without assumptions?](http://linliu-stats.github.io/files/JoE_revision.pdf) Revised & Resubmitted.
 
 **_Statistical and Learning Theory_**:
 
