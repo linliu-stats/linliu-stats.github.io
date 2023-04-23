@@ -24,6 +24,9 @@ Selected Papers
 
 **_Working papers_**:
 
+Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Machine learning and causal inference: quantifying bias using
+higher order influence functions.]() Submitted.
+
 _Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>, and Lei Zhang<sup>#</sup>. [Towards neural semiparametric statistics and causal inference.]() In preparation.
 
 LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](https://arxiv.org/pdf/2302.08097) Working draft.
