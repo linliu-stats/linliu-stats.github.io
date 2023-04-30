@@ -24,6 +24,8 @@ Selected Papers
 
 **_Working papers_**:
 
+LL, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.]() Working paper.
+
 Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Machine learning and causal inference: quantifying bias using
 higher order influence functions.]() Submitted.
 
