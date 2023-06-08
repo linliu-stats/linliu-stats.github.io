@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I am also affiliated with the [School of Mathematical Sciences](http://math.sjtu.edu.cn/) and the [SJTU-YALE Joint Center for Biostatistics and Data Science](http://transmed.sjtu.edu.cn/ylhome.do?method=getHomeList&version=en).
+I am an Assistant Professor at the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I am also affiliated with the [School of Mathematical Sciences](http://math.sjtu.edu.cn/) and the [SJTU-YALE Joint Center for Biostatistics and Data Science](http://transmed.sjtu.edu.cn/ylhome.do?method=getHomeList&version=en). I am also a part of the [Smart Justice Lab]() of the [Koguan Law School](https://en.law.sjtu.edu.cn/) at SJTU.
  
 I graduated from the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at [Harvard University](https://www.harvard.edu/) in 2018. My advisors are [Professor Franziska Michor](http://michorlab.dfci.harvard.edu/) and [Professor James M. Robins](https://www.hsph.harvard.edu/james-robins/). My current research lies in nonparametric, semiparametric and high-dimensional statistics, robust statistical methods, causal inference, computational and mathematical biology.
 
