@@ -24,6 +24,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.]() Submitted.
+
 LL, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Working draft.
 
 Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Machine learning and causal inference: quantifying bias using
