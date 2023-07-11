@@ -24,20 +24,19 @@ Selected Papers
 
 **_Working papers_**:
 
-Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.]() Submitted.
+Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.]() Under Review.
 
 LL, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Working draft.
 
-Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Machine learning and causal inference: quantifying bias using
-higher order influence functions.]() Submitted.
+Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Under Review.
 
 _Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>, and Lei Zhang<sup>#</sup>. [Towards neural semiparametric statistics and causal inference.]() In preparation.
 
 LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](https://arxiv.org/pdf/2302.08097) Working draft.
 
-James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model" by James M. Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart.]() Available upon request.
+James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model".]() Available upon request.
 
-LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.]() Under review.
+LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.]() Under Review.
 
 LL, Rajarshi Mukherjee, and James M Robins. [Can we falsify the justification of the validity of published Wald confidence intervals of doubly robust functionals, without assumptions?](https://arxiv.org/pdf/2306.10590.pdf) Revised & Resubmitted. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
 
