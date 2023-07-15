@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lin Liu's website"
+title: "Lin Liu's Website"
 excerpt: "Personal Information"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,9 @@ redirect_from:
 
 I am an Assistant Professor at the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I am affiliated with the [School of Mathematical Sciences](http://math.sjtu.edu.cn/) and the [SJTU-YALE Joint Center for Biostatistics and Data Science](http://transmed.sjtu.edu.cn/ylhome.do?method=getHomeList&version=en). I am also a part of the [Smart Justice Lab]() of the [Koguan Law School](https://en.law.sjtu.edu.cn/) at SJTU.
  
-I graduated from the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at [Harvard University](https://www.harvard.edu/) in 2018. My advisors are [Professor Franziska Michor](http://michorlab.dfci.harvard.edu/) and [Professor James M. Robins](https://www.hsph.harvard.edu/james-robins/). My current research lies in nonparametric, semiparametric and high-dimensional statistics, robust statistical methods, causal inference, computational and mathematical biology.
+I graduated from the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at [Harvard University](https://www.harvard.edu/) in 2018. My advisors are [Professor Franziska Michor](http://michorlab.dfci.harvard.edu/) and [Professor James M. Robins](https://www.hsph.harvard.edu/james-robins/). My current research lies in nonparametric, semiparametric, and high-dimensional statistics, robust statistical methods, causal inference, and computational and mathematical biology.
 
-I am also interested in the theory of deep learning, estimation and inference in inverse problems and applying causal inference tools in biomedical research.
+I am also interested in the theory of deep learning, estimation, and inference in inverse problems and applying causal inference tools in biomedical research.
 
 I obtained my undergraduate degree from the [School of Life Sciences at Tongji University](https://life.tongji.edu.cn/lifeen/), under the supervision of [Professor Yong Zhang](https://zhanglab.tongji.edu.cn).
 
@@ -94,6 +94,12 @@ Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Sem
 
 LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd Edition_ by Kohei Adachi.](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13566) (2021). Biometrics, 77 (4): 1498-1500.
 
+**_Papers not intended for publication_**:
+
+James M Robins, Lingling Li, Lin Liu, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://arxiv.org/pdf/1512.02174.pdf) (2023). (arXiv: 2306.10590).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: This is the corrected version of the paper **James M Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Minimax-estimation-of-a-functional-on-a-structured-high-dimensional/10.1214/16-AOS1515.full) (2017). Annals of Statistics, 45 (5): 1951-1987.** published in the Annals of Statistics in 2017 (I am not an author of the published version).
+
 Teaching
 ======
 Fall 2020: Computational methods (undergraduate students in engineering or economics @ SJTU)
@@ -102,7 +108,7 @@ Fall 2020 -- now: Advanced mathematical statistics (graduate students in statist
 
 Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
 
-Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics and economics @ SJTU)
+Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
 
 
 Service
