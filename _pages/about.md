@@ -96,7 +96,7 @@ LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd 
 
 **_Papers not intended for publication_**:
 
-James M Robins, Lingling Li, Lin Liu, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://arxiv.org/pdf/1512.02174.pdf) (2023). (arXiv: 2306.10590).
+James M Robins, Lingling Li, Lin Liu, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://arxiv.org/pdf/1512.02174.pdf) (2023). (arXiv: 1512.02174).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: This is the corrected version of the paper **James M Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Minimax-estimation-of-a-functional-on-a-structured-high-dimensional/10.1214/16-AOS1515.full) (2017). Annals of Statistics, 45 (5): 1951-1987.** published in the Annals of Statistics in 2017 (I am not an author of the published version).
 
