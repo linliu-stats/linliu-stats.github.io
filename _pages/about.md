@@ -28,7 +28,7 @@ Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Freq
 
 LL, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Working draft.
 
-Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Under Review.
+Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Revision Invited by Biometrics.
 
 _Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>, and Lei Zhang<sup>#</sup>. [Towards neural semiparametric statistics and causal inference.]() In preparation.
 
@@ -50,7 +50,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 **_Statistical and Causal Inference Methodology_**:
 
-Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://proceedings.neurips.cc/paper_files/paper/2022/file/b57939005a3cbe40f49b66a0efd6fc8c-Paper-Conference.pdf) NeurIPS 2022. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
+Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://proceedings.neurips.cc/paper_files/paper/2022/file/b57939005a3cbe40f49b66a0efd6fc8c-Paper-Conference.pdf) (2022). Advances in Neural Information Processing Systems 35 (2022): 28238-28251. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
