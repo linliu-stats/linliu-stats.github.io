@@ -38,7 +38,7 @@ James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, an
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.]() Under Review.
 
-LL, Rajarshi Mukherjee, and James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://arxiv.org/pdf/2306.10590.pdf) Revised & Resubmitted to the Journal of Econometrics. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
+LL, Rajarshi Mukherjee, and James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://arxiv.org/pdf/2306.10590.pdf) In press in the Journal of Econometrics. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
 
 **_Statistical and Learning Theory_**:
 
