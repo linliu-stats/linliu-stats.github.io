@@ -82,7 +82,7 @@ LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-orde
 
 **_Statistical and Machine Learning Applications_**:
 
-Harsh Parikh, Kentaro Hoffman, Haoqi Sun, Wendong Ge, Jin Jing, LL, Jimeng Sun, Aaron Struck, Sahar Zafar, Alexander Volfovsky, Cynthia Rudin, and M. Brandon Westover. [Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: A retrospective cross-sectional study](https://www.sciencedirect.com/science/article/pii/S2589750023000882) (2023). Accepted by Lancet Digital Health. ([arXiv: 2203.04920](https://arxiv.org/pdf/2203.04920.pdf))
+Harsh Parikh, Kentaro Hoffman, Haoqi Sun, Wendong Ge, Jin Jing, LL, Jimeng Sun, Aaron Struck, Sahar Zafar, Alexander Volfovsky, Cynthia Rudin, and M. Brandon Westover. [Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: A retrospective cross-sectional study](https://www.sciencedirect.com/science/article/pii/S2589750023000882) (2023). The Lancet Digital Health, 5 (8): e495-e502. ([arXiv: 2203.04920](https://arxiv.org/pdf/2203.04920.pdf))
 
 Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.sciencedirect.com/science/article/pii/S1542356521009733) (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4. 
 
