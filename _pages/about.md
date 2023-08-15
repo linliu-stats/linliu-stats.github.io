@@ -46,7 +46,7 @@ LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive es
 
 LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science, 35 (3): 518-539. ([arXiv: 1904.04276](https://arxiv.org/pdf/1904.04276))
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288)).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288))
 
 LL, Rajarshi Mukherjee, and James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://arxiv.org/pdf/2306.10590.pdf) In press in the Journal of Econometrics. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
 
@@ -56,7 +56,7 @@ Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
-LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239. ([arXiv: 1908.10448](https://arxiv.org/pdf/1908.10448.pdf)).
+LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239. ([arXiv: 1908.10448](https://arxiv.org/pdf/1908.10448.pdf))
 
 **_Statistical Computing_**:
 
@@ -64,7 +64,7 @@ Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method
 
 **_Mathematical and Computational Biology_**:
 
-Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup>. [Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) (2022). PLOS Computational Biology, 18 (12): e1010753. ([arXiv: 2205.12432]()).
+Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup>. [Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) (2022). PLOS Computational Biology, 18 (12): e1010753. ([arXiv: 2205.12432]())
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secuer: [software link](https://github.com/nanawei11/Secuer)
 
