@@ -48,7 +48,7 @@ LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288))
 
-LL, Rajarshi Mukherjee, and James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://arxiv.org/pdf/2306.10590.pdf) In press in the Journal of Econometrics. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
+LL, Rajarshi Mukherjee, and James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://www.sciencedirect.com/science/article/pii/S0304407623002166) In press in the Journal of Econometrics. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
 
 **_Statistical and Causal Inference Methodology_**:
 
