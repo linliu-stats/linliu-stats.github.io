@@ -42,7 +42,7 @@ LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric effi
 
 **_Statistical and Learning Theory_**:
 
-LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](http://linliu-stats.github.io/files/Adaptive_Arxiv_Update.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
+LL, Rajarshi Mukherjee, James M Robins, and Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://jmlr.org/papers/volume22/19-892/19-892.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
 LL, Rajarshi Mukherjee, and James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science, 35 (3): 518-539. ([arXiv: 1904.04276](https://arxiv.org/pdf/1904.04276))
 
