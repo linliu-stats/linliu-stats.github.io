@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.]() Under submission.
+Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.]() Submitted.
 
 Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://www.biorxiv.org/content/10.1101/2023.09.15.557839v1) Under submission.
 
