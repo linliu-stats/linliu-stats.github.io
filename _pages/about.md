@@ -38,9 +38,7 @@ _Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, LL<sup>#</sup>, Zhonghua Liu<
 
 LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](https://arxiv.org/pdf/2302.08097) Working draft.
 
-James M. Robins, Lingling Li, LL, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Corrigenda to "Minimax estimation of a functional on a structured high-dimensional model".]() Available upon request.
-
-LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.]() Under Review.
+LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under Review.
 
 **_Statistical and Learning Theory_**:
 
