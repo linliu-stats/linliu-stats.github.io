@@ -64,8 +64,6 @@ Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method
 
 **_Mathematical and Computational Biology_**:
 
-Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.]() Accepted by Archives of Toxicology.
-
 Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup>. [Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) (2022). PLOS Computational Biology, 18 (12): e1010753. ([arXiv: 2205.12432]())
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secuer: [software link](https://github.com/nanawei11/Secuer)
@@ -85,6 +83,8 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) (2013). Nature Communications, 4: 1502.
 
 **_Statistical and Machine Learning Applications_**:
+
+Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology.
 
 Harsh Parikh, Kentaro Hoffman, Haoqi Sun, Wendong Ge, Jin Jing, LL, Jimeng Sun, Aaron Struck, Sahar Zafar, Alexander Volfovsky, Cynthia Rudin, and M. Brandon Westover. [Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: A retrospective cross-sectional study](https://www.sciencedirect.com/science/article/pii/S2589750023000882) (2023). The Lancet Digital Health, 5 (8): e495-e502. ([arXiv: 2203.04920](https://arxiv.org/pdf/2203.04920.pdf))
 
