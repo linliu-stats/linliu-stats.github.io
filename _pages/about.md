@@ -34,7 +34,7 @@ LL, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensi
 
 Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Revision Invited by Biometrics.
 
-_Zixin Wang_<sup>$</sup>, _Qinshuo Liu_, Xi-An Li, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>, and Lei Zhang<sup>#</sup>. [Towards neural semiparametric statistics and causal inference.]() In preparation.
+_Qinshuo Liu_, _Zixin Wang_<sup>$</sup>, Xi-An Li, Lei Zhang, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation.]() Under submission.
 
 LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](https://arxiv.org/pdf/2302.08097) Working draft.
 
