@@ -80,15 +80,13 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 
 LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) (2013). Nature Communications, 4: 1502.
 
-**_Statistical and Machine Learning Applications_**:
+**_Biomedical Applications_**:
 
 Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology.
 
 Harsh Parikh, Kentaro Hoffman, Haoqi Sun, Wendong Ge, Jin Jing, LL, Jimeng Sun, Aaron Struck, Sahar Zafar, Alexander Volfovsky, Cynthia Rudin, and M. Brandon Westover. [Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: A retrospective cross-sectional study](https://www.sciencedirect.com/science/article/pii/S2589750023000882) (2023). The Lancet Digital Health, 5 (8): e495-e502. ([arXiv: 2203.04920](https://arxiv.org/pdf/2203.04920.pdf))
 
-Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.sciencedirect.com/science/article/pii/S1542356521009733) (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4. 
-
-Michalina Janiszewska, LL, Vanessa Almendro, Yanan Kuang, Cloud Paweletz, Rita A Sakr, Britta Weigelt, Ariella B Hanker, Sarat Chandarlapaty, Tari A King, Jorge S Reis-Filho, Carlos L Arteaga, So Yeon Park, Franziska Michor, and Kornelia Polyak. [In situ single-cell analysis identifies heterogeneity for PIK3CA mutation and HER2 amplification in HER2-positive breast cancer.](https://www.nature.com/articles/ng.3391/) (2015). Nature Genetics, 47 (10): 1212-1219.
+Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.sciencedirect.com/science/article/pii/S1542356521009733) (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4.
 
 **_Miscellaneous_**:
 
