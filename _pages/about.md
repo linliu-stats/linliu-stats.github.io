@@ -82,7 +82,7 @@ LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-orde
 
 **_Biomedical Applications_**:
 
-Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology.
+Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology, 98: 709-734.
 
 Harsh Parikh, Kentaro Hoffman, Haoqi Sun, Wendong Ge, Jin Jing, LL, Jimeng Sun, Aaron Struck, Sahar Zafar, Alexander Volfovsky, Cynthia Rudin, and M. Brandon Westover. [Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: A retrospective cross-sectional study](https://www.sciencedirect.com/science/article/pii/S2589750023000882) (2023). The Lancet Digital Health, 5 (8): e495-e502. ([arXiv: 2203.04920](https://arxiv.org/pdf/2203.04920.pdf))
 
