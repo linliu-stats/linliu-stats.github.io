@@ -28,7 +28,7 @@ Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
-Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.]() Revision Invited.
+Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.]() Minor Revision at BMC Medical Research Methodology.
 
 LL, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Working draft.
 
