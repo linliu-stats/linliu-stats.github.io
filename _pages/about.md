@@ -62,6 +62,10 @@ LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of op
 
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v4n1/41_41.pdf?code=p9%2F0UvomtzDWIMnzCuMjTw%3D%3D) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
+**_Statistical Methods for Experiments and Clinical Trials_**:
+
+Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
+
 **_Mathematical and Computational Biology_**:
 
 Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup>. [Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) (2022). PLOS Computational Biology, 18 (12): e1010753. ([arXiv: 2205.12432]())
@@ -83,8 +87,6 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) (2013). Nature Communications, 4: 1502.
 
 **_Biomedical Applications_**:
-
-Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
 
 Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology, 98: 709-734.
 
