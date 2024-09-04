@@ -30,8 +30,6 @@ Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
-Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.]() Minor Revision at BMC Medical Research Methodology.
-
 LL, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Working draft.
 
 Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Revision Invited by Biometrics.
@@ -85,6 +83,8 @@ _Jasmine Foo_, _LLL_, Kevin Leder, Markus Riester, Yoh Iwasa, Christoph Lengauer
 LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-order nuclear organization determine single-nucleotide substitution patterns in cancer genomes.](https://www.nature.com/articles/ncomms2502) (2013). Nature Communications, 4: 1502.
 
 **_Biomedical Applications_**:
+
+Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
 
 Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology, 98: 709-734.
 
