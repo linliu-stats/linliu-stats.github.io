@@ -26,11 +26,11 @@ Selected Papers
 
 Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Controlled Trials Motivated by Higher-Order Influence Functions.]() In preparation.
 
-Xingyu Chen, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Under submission.
+Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Under submission.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [software link](https://github.com/cxy0714/Method-of-Moments-Inference-for-GLMs).
 
-Chaozhi Zhang, Xiaoqun Zhang, LL. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit (MetaSP).](https://arxiv.org/pdf/2409.02708) Submitted.
+Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit (MetaSP).](https://arxiv.org/pdf/2409.02708) Submitted.
 
 Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test for Covariate Adjustment in Randomized Controlled Trials using G-computation.]() Revision invited.
 
