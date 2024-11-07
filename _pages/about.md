@@ -38,7 +38,7 @@ Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
-LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Working draft.
+LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Under review.
 
 Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Revision Invited by Biometrics.
 
