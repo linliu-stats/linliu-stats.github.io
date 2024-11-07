@@ -32,7 +32,9 @@ Xingyu Chen, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and D
 
 Chaozhi Zhang, Xiaoqun Zhang, LL. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit (MetaSP).](https://arxiv.org/pdf/2409.02708) Submitted.
 
-Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://www.biorxiv.org/content/10.1101/2023.09.15.557839v1) Under submission.
+Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test for Covariate Adjustment in Randomized Controlled Trials using G-computation.]() Revision invited.
+
+Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://www.biorxiv.org/content/10.1101/2023.09.15.557839v1) Revision resubmitted.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
