@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Sihui Zhao, Xinbo Wang, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Controlled Trials Motivated by Higher-Order Influence Functions.]() In preparation.
+Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Controlled Trials Motivated by Higher-Order Influence Functions.]() In preparation.
 
 Xingyu Chen, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Under submission.
 
