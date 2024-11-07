@@ -26,6 +26,10 @@ Selected Papers
 
 Sihui Zhao, Xinbo Wang, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Controlled Trials Motivated by Higher-Order Influence Functions.]() In preparation.
 
+Xingyu Chen, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Under submission.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [software link](https://github.com/cxy0714/Method-of-Moments-Inference-for-GLMs).
+
 Chaozhi Zhang, Xiaoqun Zhang, LL. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit (MetaSP).](https://arxiv.org/pdf/2409.02708) Submitted.
 
 Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://www.biorxiv.org/content/10.1101/2023.09.15.557839v1) Under submission.
