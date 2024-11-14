@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.]() In preparation.
+Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.](http://arxiv.org/abs/2411.08491) Under submission.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/HOIF-Car).
 
