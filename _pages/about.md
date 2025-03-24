@@ -72,7 +72,7 @@ Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method
 
 **_Statistical Methods for Experiments and Clinical Trials_**:
 
-Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.](https://arxiv.org/pdf/2503.13066) Accepted by Statistics in Medicine.
+Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.]() Accepted by Statistics in Medicine. ([https://arxiv.org/pdf/2503.13066](https://arxiv.org/pdf/2503.13066))
 
 Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
 
