@@ -28,7 +28,7 @@ Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Cova
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/HOIF-Car).
 
-Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Under submission.
+Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Submitted.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [software link](https://github.com/cxy0714/Method-of-Moments-Inference-for-GLMs).
 
