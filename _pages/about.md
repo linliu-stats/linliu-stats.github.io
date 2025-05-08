@@ -98,7 +98,7 @@ LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-orde
 
 **_Biomedical Applications_**:
 
-Kai Hou, LL, and Haihui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study]() (2025). In Press in International Journal of Cardiology.
+Kai Hou, LL, and Haihui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study](https://www.sciencedirect.com/science/article/pii/S0167527325003717) (2025). International Journal of Cardiology, 434: 133328.
 
 Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, and Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology, 98: 709-734.
 
