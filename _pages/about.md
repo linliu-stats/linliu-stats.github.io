@@ -98,8 +98,6 @@ LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-orde
 
 **_Biomedical Applications_**:
 
-Kai Hou, LL, and Haihui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study](https://www.sciencedirect.com/science/article/pii/S0167527325003717) (2025). International Journal of Cardiology, 434: 133328.
-
 Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, and Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology, 98: 709-734.
 
 Harsh Parikh, Kentaro Hoffman, Haoqi Sun, Wendong Ge, Jin Jing, LL, Jimeng Sun, Aaron Struck, Sahar Zafar, Alexander Volfovsky, Cynthia Rudin, and M. Brandon Westover. [Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: A retrospective cross-sectional study](https://www.sciencedirect.com/science/article/pii/S2589750023000882) (2023). The Lancet Digital Health, 5 (8): e495-e502. ([arXiv: 2203.04920](https://arxiv.org/pdf/2203.04920.pdf))
@@ -107,6 +105,8 @@ Harsh Parikh, Kentaro Hoffman, Haoqi Sun, Wendong Ge, Jin Jing, LL, Jimeng Sun, 
 Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Scott B. Minchenberg, Madhuri Chandnani, LL, Seth A. Gross, Neil Sengupta, Tyler M. Berzin. [Deep learning computer-aided polyp detection reduces Adenoma Miss Rate:  A U.S. multi-center randomized tandem colonoscopy study (CADeT-CS Trial).](https://www.sciencedirect.com/science/article/pii/S1542356521009733) (2022). Clinical Gastroenterology and Hepatology, 20 (7): 1499-1507.e4.
 
 **_Miscellaneous_**:
+
+Kai Hou, LL, and Haihui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study](https://www.sciencedirect.com/science/article/pii/S0167527325003717) (2025). International Journal of Cardiology, 434: 133328.
 
 Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). Journal of the American Statistical Association: Theory and Methods, 117 (540): 2283-2287.
 
