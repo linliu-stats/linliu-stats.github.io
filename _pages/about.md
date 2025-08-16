@@ -24,7 +24,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Xingyu Chen, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing a class of higher-order U-statistics, exactly.]() Under submission.
+Xingyu Chen, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.]() Under submission.
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() Under submission.
 
