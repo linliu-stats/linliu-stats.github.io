@@ -24,7 +24,9 @@ Selected Papers
 
 **_Working papers_**:
 
-Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Under submission.
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.]() Submitted.
+
+Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Submitted.
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() Under Review.
 
