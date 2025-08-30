@@ -24,7 +24,7 @@ Fall 2020 -- now: Advanced mathematical statistics (graduate students in statist
 
 Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
 
-Slides: [lecture 2](), [lecture 3](), [lecture 4](), [lecture 5](), [lecture 6](), [lecture 7]()
+Slides: [lecture 2](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%202.pdf), [lecture 3](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%203.pdf), [lecture 4](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%204.pdf), [lecture 5](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%205.pdf), [lecture 6](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%206.pdf)
 
 Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
 
