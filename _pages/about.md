@@ -18,6 +18,14 @@ I obtained my undergraduate degree from the [School of Life Sciences at Tongji U
 
 You can reach me by email: [linliu@alumni.tongji.edu.cn](linliu@alumni.tongji.edu.cn) or [linliu@sjtu.edu.cn](linliu@sjtu.edu.cn)
 
+Teaching
+======
+Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU); Notes: [lecture 1](), [lecture 2](), [lecture 3](), [lecture 4](), [lecture 5]()
+
+Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
+
+Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
+
 Selected Papers
 ======
 (You can find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=2xESgioAAAAJ&hl=en).) (_Italic_: co-first authorship; <sup>#</sup>: (co-)corresponding authorship; <sup>$</sup>: student mentee)
@@ -135,16 +143,6 @@ LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd 
 James M Robins, Lingling Li, Lin Liu, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://arxiv.org/pdf/1512.02174.pdf) (2023). (arXiv: 1512.02174).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: This is the corrected version of the paper **James M Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Minimax-estimation-of-a-functional-on-a-structured-high-dimensional/10.1214/16-AOS1515.full) (2017). Annals of Statistics, 45 (5): 1951-1987.** published in the Annals of Statistics in 2017 (I am not an author of the published version).
-
-Teaching
-======
-Fall 2020: Computational methods (undergraduate students in engineering or economics @ SJTU)
-
-Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU)
-
-Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
-
-Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
 
 
 Service
