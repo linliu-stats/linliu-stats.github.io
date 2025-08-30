@@ -20,9 +20,11 @@ You can reach me by email: [linliu@alumni.tongji.edu.cn](linliu@alumni.tongji.ed
 
 Teaching
 ======
-Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU); Notes: [lecture 1](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture1.pdf), [lecture 2](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture2.pdf), [lecture 3](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture3_full.pdf), [lecture 4](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture4.pdf), [lecture 5](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/Semiparametric%20statistics.pdf)
+Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU); Notes: [chapter 1](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture1.pdf), [chapter 2](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture2.pdf), [chapter 3](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture3_full.pdf), [chapter 4](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/lecture4.pdf), [chapter 5](https://github.com/linliu-stats/linliu-stats.github.io/blob/master/files/Semiparametric%20statistics.pdf)
 
 Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
+
+Slides: [lecture 2](), [lecture 3](), [lecture 4](), [lecture 5](), [lecture 6](), [lecture 7]()
 
 Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
 
