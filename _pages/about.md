@@ -16,7 +16,7 @@ I am also interested in the theory of deep learning, estimation, and inference i
 
 I obtained my undergraduate degree from the [School of Life Sciences at Tongji University](https://life.tongji.edu.cn/lifeen/), under the supervision of [Professor Yong Zhang](https://zhanglab.tongji.edu.cn).
 
-You can reach me by email: [linliu@sjtu.edu.cn](linliu@sjtu.edu.cn)
+You can reach me by email: [linliu@sjtu.edu.cn](linliu@sjtu.edu.cn) or [linliu.tju@gmail.com](linliu.tju@gmail.com)
 
 Teaching
 ======
