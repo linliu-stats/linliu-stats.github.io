@@ -34,14 +34,13 @@ Selected Papers
 
 **_Working papers_**:
 
-Lvfang Sun, Zhenhua Lin, LL. [Towards a Unified Asymptotic Efficiency Theory on Regular Parameter Manifolds.]() Under submission.
+Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal Causal Effect Estimation with Continuous Instrumental Variables](). Under submission.
+
+Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.]() Under submission.
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() Available upon request.
 
-Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.]() Revision resubmitted.
-
-
-Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.]() Submitted.
+Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.biorxiv.org/content/10.1101/2025.09.02.673784v1.full.pdf) Under Review.
 
 
 Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Submitted.
@@ -59,10 +58,6 @@ Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference fo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [software link](https://github.com/cxy0714/Method-of-Moments-Inference-for-GLMs).
 
 Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit (MetaSP).](https://arxiv.org/pdf/2409.02708) Under Review.
-
-Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://www.biorxiv.org/content/10.1101/2023.09.15.557839v1) Revision resubmitted.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
 LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Under Review.
 
@@ -103,6 +98,12 @@ Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-comp
 Long-Shen Xie, LL, Shein-Chung Chow and Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
 
 **_Mathematical and Computational Biology_**:
+
+Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.]() (2025). Bioinformatics.
+
+Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.]() (2025). BMC Medical Research Methodology.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
 Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup> and Hua-Jun Wu<sup>#</sup>. [Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) (2022). PLOS Computational Biology, 18 (12): e1010753. ([arXiv: 2205.12432]())
 
