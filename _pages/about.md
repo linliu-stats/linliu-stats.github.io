@@ -34,6 +34,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect with continuous instrumental variables.]() Under submission.
+
 Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.]() Under submission.
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() Available upon request.
