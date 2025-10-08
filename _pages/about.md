@@ -43,7 +43,7 @@ LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of do
 Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.biorxiv.org/content/10.1101/2025.09.02.673784v1.full.pdf) Under Review.
 
 
-Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Submitted.
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Under Review.
 
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Submitted.
 
