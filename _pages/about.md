@@ -34,7 +34,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect with continuous instrumental variables.]() Under submission.
+Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.]() Under submission.
 
 Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.]() Under submission.
 
