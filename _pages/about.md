@@ -20,11 +20,9 @@ You can reach me by email: [linliu@sjtu.edu.cn](linliu@sjtu.edu.cn) or [linliu.t
 
 Teaching
 ======
-Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU); Notes: [chapter 1](https://linliu-stats.github.io/files/lecture1.pdf), [chapter 2](https://linliu-stats.github.io/files/lecture2.pdf), [chapter 3](https://linliu-stats.github.io/files/lecture3_full.pdf), [chapter 4](https://linliu-stats.github.io/files/lecture4.pdf), [chapter 5](https://linliu-stats.github.io/files/Semiparametric%20statistics.pdf)
+Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU)
 
 Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
-
-Slides: [lecture 2](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%202.pdf), [lecture 3](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%203.pdf), [lecture 4](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%204.pdf), [lecture 5](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%205.pdf), [lecture 6](https://linliu-stats.github.io/files/Causal%20Inference%20Lecture%206.pdf)
 
 Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
 
