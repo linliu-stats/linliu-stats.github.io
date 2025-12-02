@@ -123,7 +123,7 @@ LL, Subhajyoti De, and Franziska Michor. [DNA replication timing and higher-orde
 
 **_Biomedical Applications_**:
 
-Yuichi Mori, Pu Wang, Shunsuke Kamba, LL, Peter D Siersema, Cesare Hassan, and The Co-AID study group. [Addressing colonoscopy burden due to artificial intelligence devices for polyp detection]() (2025). In Press in Gastroenterology.
+Yuichi Mori, Pu Wang, Shunsuke Kamba, LL, Peter D Siersema, Cesare Hassan, and The Co-AID study group. [Addressing colonoscopy burden due to artificial intelligence devices for polyp detection](https://linkinghub.elsevier.com/retrieve/pii/S0016508525059049) (2025). In Press in Gastroenterology.
 
 Kai Hou, LL, Zhi-Hui Fang, Wei-Xing Zong, Daqiang Sun, Zhigang Guo, and Lu Cao. [The role of ferroptosis in cardio-oncology.](https://link.springer.com/article/10.1007/s00204-023-03665-3) (2024). Archives of Toxicology, 98: 709-734.
 
