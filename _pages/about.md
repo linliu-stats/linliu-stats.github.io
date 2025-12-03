@@ -41,7 +41,7 @@ LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of do
 Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.biorxiv.org/content/10.1101/2025.09.02.673784v1.full.pdf) Under Review.
 
 
-Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Under Review.
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Revision Invited by Biometrics.
 
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Submitted.
 
@@ -54,8 +54,6 @@ Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Cova
 Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Submitted.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [software link](https://github.com/cxy0714/Method-of-Moments-Inference-for-GLMs).
-
-Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit (MetaSP).](https://arxiv.org/pdf/2409.02708) Under Review.
 
 LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Under Review.
 
@@ -86,6 +84,8 @@ Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric 
 LL, Zach Shahn, James M Robins and Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239. ([arXiv: 1908.10448](https://arxiv.org/pdf/1908.10448.pdf))
 
 **_Statistical Computing_**:
+
+Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit (MetaSP).](https://arxiv.org/pdf/2409.02708) (2025). In press in CSIAM Transactions on Applied Mathematics.
 
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v4n1/41_41.pdf?code=p9%2F0UvomtzDWIMnzCuMjTw%3D%3D) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
