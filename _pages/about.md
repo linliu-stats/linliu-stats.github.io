@@ -32,7 +32,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Xinbo Wang, Sihui Zhao, Yongyong Ren, Hui Lu, LL. [Covariate Adjustment in Randomized Experiments with GLM: Jackknife, Implementation, and Recommendations.]() Under submission.
+Xinbo Wang, Sihui Zhao, Yongyong Ren, Hui Lu, LL. [Covariate Adjustment in Randomized Experiments with GLMs: On the Role of Jackknife and Practical Recommendations.]() Under submission.
 
 Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.](https://arxiv.org/pdf/2510.14368) Under submission.
 
