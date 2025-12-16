@@ -47,7 +47,7 @@ Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjust
 
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Submitted.
 
-Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() Under Review.
+Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() Revision invited by Econometric Theory.
 
 Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.](http://arxiv.org/abs/2411.08491) Under submission.
 
