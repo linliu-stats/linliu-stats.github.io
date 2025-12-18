@@ -34,7 +34,9 @@ Selected Papers
 
 Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).]() Under submission.
 
-Xinbo Wang, Sihui Zhao, Yongyong Ren, Hui Lu, LL. [Covariate Adjustment in Randomized Experiments with GLMs: On the Role of Jackknife and Practical Recommendations.]() Under submission.
+Xinbo Wang, Sihui Zhao, Yongyong Ren, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Recommendations.]() Under submission.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/Simu_JASA).
 
 Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.](https://arxiv.org/pdf/2510.14368) Under submission.
 
