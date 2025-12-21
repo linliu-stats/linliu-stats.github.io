@@ -40,35 +40,35 @@ Xinbo Wang, Sihui Zhao, Yongyong Ren, Hui Lu, LL. [Adjusting for Many Covariates
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/Simu_JASA).
 
-Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.](https://arxiv.org/pdf/2510.14368) Under submission.
+Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.](https://arxiv.org/pdf/2510.14368) Under review.
 
-Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Under submission.
+Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Under review.
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() Available upon request.
 
-Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.biorxiv.org/content/10.1101/2025.09.02.673784v1.full.pdf) Under Review.
+Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.biorxiv.org/content/10.1101/2025.09.02.673784v1.full.pdf) Revision invited.
 
-Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Revision Invited by Biometrics.
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Revision invited by Biometrics.
 
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Submitted.
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() Revision invited by Econometric Theory.
 
-Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.](http://arxiv.org/abs/2411.08491) Under submission.
+Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.](http://arxiv.org/abs/2411.08491) Under review.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/HOIF-Car).
 
-Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Submitted.
+Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference for GLMs and Doubly Robust Functionals under Proportional Asymptotics.](https://arxiv.org/pdf/2408.06103) Under review.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [software link](https://github.com/cxy0714/Method-of-Moments-Inference-for-GLMs).
 
-LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Under Review.
+LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Under review.
 
-Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Revision Invited by Biometrics.
+Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Revision invited by Biometrics.
 
 LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](https://arxiv.org/pdf/2302.08097) Working draft.
 
-LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under Review.
+LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under review.
 
 **_Statistical and Learning Theory_**:
 
