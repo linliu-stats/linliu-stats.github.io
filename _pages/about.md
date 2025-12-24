@@ -36,7 +36,7 @@ Wenlu Xu, Xiaowu Dai, LL. [Direct and indirect persuasion effects under directio
 
 Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Under submission.
 
-Xinbo Wang, Sihui Zhao, Yongyong Ren, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.]() Under submission.
+Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.]() Under submission.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/Simu_JASA).
 
