@@ -34,7 +34,7 @@ Selected Papers
 
 Wenlu Xu, Xiaowu Dai, LL. [Direct and indirect persuasion effects under directional interference.]() Under review.
 
-Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).]() Under submission.
+Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Under submission.
 
 Xinbo Wang, Sihui Zhao, Yongyong Ren, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.]() Under submission.
 
