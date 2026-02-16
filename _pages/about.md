@@ -44,7 +44,7 @@ Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal ef
 
 Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Under review.
 
-LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() Available upon request.
+LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() In preparation.
 
 Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.biorxiv.org/content/10.1101/2025.09.02.673784v1.full.pdf) Revision invited.
 
