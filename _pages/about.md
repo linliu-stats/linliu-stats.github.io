@@ -32,7 +32,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Under submission.
+Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Submitted.
 
 Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.]() Under submission.
 
@@ -40,7 +40,7 @@ Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Ma
 
 Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.](https://arxiv.org/pdf/2510.14368) Under review.
 
-Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Revise and Resubmit at IEEE Transactions on Information Theory.
+Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Under revision.
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() In preparation.
 
