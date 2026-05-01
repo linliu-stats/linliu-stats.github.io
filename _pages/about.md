@@ -80,6 +80,8 @@ LL, Rajarshi Mukherjee, and James M Robins. [Assumption-lean falsification tests
 
 **_Statistical and Causal Inference Methodology_**:
 
+Hao Chen, LL, and Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://arxiv.org/pdf/2509.22553) (2026). International Conference on Machine Learning (Spotlight).
+
 Qinshuo Liu, Zixin Wang, Xi-An Li, Xinyao Ji, Lei Zhang, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation.](https://openreview.net/attachment?id=OERwuPzHdh&name=pdf) (2024). International Conference on Machine Learning. 
 
 Siqi Xu, LL<sup>#</sup>, and Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://proceedings.neurips.cc/paper_files/paper/2022/file/b57939005a3cbe40f49b66a0efd6fc8c-Paper-Conference.pdf) (2022). Advances in Neural Information Processing Systems 35: 28238-28251. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
