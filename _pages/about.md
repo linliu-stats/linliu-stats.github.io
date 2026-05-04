@@ -32,7 +32,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Lvfang Sun, Zhenhua Lin, LL. [On Rate-Optimal Estimation of Single-Index Frechet Regression: Minimaxity and Root-N Consistency.]() In prep.
+Lvfang Sun, Zhenhua Lin, LL. [On Rate-Optimal Estimation of Single-Index Frechet Regression: Minimaxity and Root-N-Consistency.]() In prep.
 
 Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Submitted.
 
