@@ -12,7 +12,7 @@ I am an Assistant Professor at the [Institute of Natural Sciences (INS)](https:/
  
 I graduated from the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/) at [Harvard University](https://www.harvard.edu/) in 2018. My advisors are [Professor Franziska Michor](http://michorlab.dfci.harvard.edu/) and [Professor James M. Robins](https://www.hsph.harvard.edu/james-robins/). I am interested in nonparametric and semiparametric statistical theory, causal inference, applied statistics, and computational and mathematical biology.
 
-I am also interested in the theory of deep learning, estimation, and inference in inverse problems and applying causal inference tools in biomedical research.
+I am also interested in other theoretical aspects of artificial intelligence and the application of causal inference in biomedical and physical sciences.
 
 I obtained my undergraduate degree from the [School of Life Sciences at Tongji University](https://life.tongji.edu.cn/lifeen/), under the supervision of [Professor Yong Zhang](https://zhanglab.tongji.edu.cn).
 
@@ -142,6 +142,12 @@ Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Sco
 
 **_Miscellaneous_**:
 
+LL. [Proposer of the vote of thanks to Bruns-Smith et al. and contribution to the Discussion of 'Augmented balancing weights as linear regression'](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkag031/8425030) (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology.
+
+[Toward Variation-Independent Regression by Composition]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology.
+
+[Toward Variation-Independent Regression by Composition]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology.
+
 Kai Hou, LL, Haihui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study](https://www.sciencedirect.com/science/article/pii/S0167527325003717) (2025). International Journal of Cardiology, 434: 133328.
 
 Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). Journal of the American Statistical Association: Theory and Methods, 117 (540): 2283-2287.
@@ -150,7 +156,7 @@ LL. [Book Review: _Matrix-Based Introduction to Multivariate Data Analysis, 2nd 
 
 **_Papers not intended for publication_**:
 
-James M Robins, Lingling Li, Lin Liu, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://arxiv.org/pdf/1512.02174.pdf) (2023). (arXiv: 1512.02174).
+James M. Robins, Lingling Li, Lin Liu, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://arxiv.org/pdf/1512.02174.pdf) (2023). (arXiv: 1512.02174).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Note: This is the corrected version of the paper **James M Robins, Lingling Li, Rajarshi Mukherjee, Eric Tchetgen Tchetgen, and Aad van der Vaart. [Minimax estimation of a functional on a structured high-dimensional model](https://projecteuclid.org/journals/annals-of-statistics/volume-45/issue-5/Minimax-estimation-of-a-functional-on-a-structured-high-dimensional/10.1214/16-AOS1515.full) (2017). Annals of Statistics, 45 (5): 1951-1987.** published in the Annals of Statistics in 2017 (I am not an author of the published version).
 
