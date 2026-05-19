@@ -142,11 +142,9 @@ Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Sco
 
 **_Miscellaneous_**:
 
+Ruixuan Zhao, Oliver Dukes, Linbo Wang, LL. [Ruixuan Zhao, Oliver Dukes, Linbo Wang, and Lin Liu's contribution to the Discussion of 'Regression by composition' by Farewell et al.']() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology. ([https://arxiv.org/pdf/2604.17760](https://arxiv.org/pdf/2604.17760))
+
 LL. [Proposer of the vote of thanks to Bruns-Smith et al. and contribution to the Discussion of 'Augmented balancing weights as linear regression'](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkag031/8425030) (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology.
-
-[Toward Variation-Independent Regression by Composition]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology.
-
-[Toward Variation-Independent Regression by Composition]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology.
 
 Kai Hou, LL, Haihui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study](https://www.sciencedirect.com/science/article/pii/S0167527325003717) (2025). International Journal of Cardiology, 434: 133328.
 
