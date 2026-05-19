@@ -146,7 +146,7 @@ Ruixuan Zhao, Oliver Dukes, Linbo Wang, LL. [Ruixuan Zhao, Oliver Dukes, Linbo W
 
 Mei Dong, Linbo Wang, LL, Oliver Dukes. [Mei Dong, Linbo Wang, Lin Liu, and Oliver Dukes's contribution to the Discussion of 'Regression by composition' by Farewell et al.]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology. ([https://arxiv.org/pdf/2604.18388](https://arxiv.org/pdf/2604.18388))
 
-Jingxin Yan, LL, Oliver Dukes, Qizhai Li, Linbo Wang. [Jingxin Yan, Lin Liu, Oliver Dukes, Qizhai Li, and Linbo Wang's contribution to the Discussion of 'Regression by composition' by Farewell et al.]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology. ([https://arxiv.org/pdf/2604.17760]([https://arxiv.org/pdf/2604.17762](https://arxiv.org/pdf/2604.17762)))
+Jingxin Yan, LL, Oliver Dukes, Qizhai Li, Linbo Wang. [Jingxin Yan, Lin Liu, Oliver Dukes, Qizhai Li, and Linbo Wang's contribution to the Discussion of 'Regression by composition' by Farewell et al.]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology. ([https://arxiv.org/pdf/2604.17762](https://arxiv.org/pdf/2604.17762))
 
 LL. [Proposer of the vote of thanks to Bruns-Smith et al. and contribution to the Discussion of 'Augmented balancing weights as linear regression'](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkag031/8425030) (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology.
 
