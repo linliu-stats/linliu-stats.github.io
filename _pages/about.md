@@ -46,11 +46,9 @@ Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() In preparation.
 
-Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.biorxiv.org/content/10.1101/2025.09.02.673784v1.full.pdf) Revision invited.
-
 Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Resubmitted.
 
-Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Submitted.
+Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Major Revision in Statistics and Computing.
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() Revision invited by Econometric Theory.
 
@@ -106,9 +104,11 @@ Long-Shen Xie, LL, Shein-Chung Chow, Hui Lu. [Determining the Extent and Frequen
 
 **_Mathematical and Computational Biology_**:
 
-Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.]() (2025). Bioinformatics.
+Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.]() (2026). Nature Communications.
 
-Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.]() (2025). BMC Medical Research Methodology.
+Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.](https://academic.oup.com/bioinformatics/article-abstract/42/1/btaf562/8323485) (2025). Bioinformatics.
+
+Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://link.springer.com/article/10.1186/s12874-025-02686-z) (2025). BMC Medical Research Methodology.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
