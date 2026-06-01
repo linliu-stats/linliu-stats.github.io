@@ -50,8 +50,6 @@ Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjust
 
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Major Revision in Statistics and Computing.
 
-Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() Revision invited by Econometric Theory.
-
 Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.](http://arxiv.org/abs/2411.08491) Under review.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/HOIF-Car).
@@ -69,6 +67,8 @@ LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under review.
 
 **_Statistical and Learning Theory_**:
+
+Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory.
 
 LL, Rajarshi Mukherjee, James M Robins, Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://jmlr.org/papers/volume22/19-892/19-892.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
