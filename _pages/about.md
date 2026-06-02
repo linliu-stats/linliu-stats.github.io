@@ -60,15 +60,13 @@ Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference fo
 
 LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Under review.
 
-Kerollos Wanis, LL, Nelya Melnitchouk, and James M Robins. [Falsification using higher order influence functions for double machine learning estimators of causal effects.]() Revision invited by Biometrics.
-
 LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](https://arxiv.org/pdf/2302.08097) Working draft.
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under review.
 
 **_Statistical and Learning Theory_**:
 
-Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory.
+Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory. ([https://arxiv.org/pdf/2606.01706](https://arxiv.org/pdf/2606.01706))
 
 LL, Rajarshi Mukherjee, James M Robins, Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://jmlr.org/papers/volume22/19-892/19-892.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
