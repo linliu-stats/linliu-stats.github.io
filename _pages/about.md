@@ -32,6 +32,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Minhao Yao, Ruoyu Wang, Xihong Lin, LL, Zhonghua Liu. [Gradient-Flow Optimization as Dynamic Random-Effects Inference: Testing and Early Stopping with Applications to Deep Learning.](https://arxiv.org/pdf/2605.27991) Under submission.
+
 Lvfang Sun, Zhenhua Lin, LL. [On Rate-Optimal Estimation of Single-Index Frechet Regression: Minimaxity and Root-N-Consistency.]() In prep.
 
 Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Submitted.
