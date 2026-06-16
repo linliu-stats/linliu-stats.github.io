@@ -48,8 +48,6 @@ Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() In preparation.
 
-Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://arxiv.org/pdf/2509.07369) Resubmitted.
-
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Major Revision in Statistics and Computing.
 
 Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.](http://arxiv.org/abs/2411.08491) Under review.
@@ -97,6 +95,8 @@ Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task L
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v4n1/41_41.pdf?code=p9%2F0UvomtzDWIMnzCuMjTw%3D%3D) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
 **_Statistical Methods for Experiments and Clinical Trials_**:
+
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.]() (2026). Accepted by Biometrics. ([https://arxiv.org/pdf/2509.07369](https://arxiv.org/pdf/2509.07369))
 
 Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70080) (2025). Statistics in Medicine, 44 (7): e70080. ([https://arxiv.org/pdf/2503.13066](https://arxiv.org/pdf/2503.13066))
 
