@@ -46,7 +46,7 @@ Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal ef
 
 Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Minor revision at IEEE Transactions on Information Theory.
 
-LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.]() In preparation.
+LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.](https://arxiv.org/pdf/2606.22391) Under submission.
 
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Major Revision in Statistics and Computing.
 
