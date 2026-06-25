@@ -32,7 +32,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Anna Guo, LL, David Benkeser, Razieh Nabi. [Causal inference with the Napkin graph]() Submitted.
+Anna Guo, LL, David Benkeser, Razieh Nabi. [Causal inference with the Napkin graph.](https://arxiv.org/pdf/2512.19861) Submitted.
 
 Minhao Yao, Ruoyu Wang, Xihong Lin, LL, Zhonghua Liu. [Gradient-Flow Optimization as Dynamic Random-Effects Inference: Testing and Early Stopping with Applications to Deep Learning.](https://arxiv.org/pdf/2605.27991) Under submission.
 
