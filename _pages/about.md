@@ -32,6 +32,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Na Liu<sup>$</sup>, Chang Li<sup>$</sup>, Yujia Gu, LL. [Stabilized higher-order influence functions: Statistical theory for a class of bilinear forms.]() Under submission.
+
 Anna Guo, LL, David Benkeser, Razieh Nabi. [Causal inference with the Napkin graph.](https://arxiv.org/pdf/2512.19861) Submitted.
 
 Minhao Yao, Ruoyu Wang, Xihong Lin, LL, Zhonghua Liu. [Gradient-Flow Optimization as Dynamic Random-Effects Inference: Testing and Early Stopping with Applications to Deep Learning.](https://arxiv.org/pdf/2605.27991) Under submission.
@@ -61,8 +63,6 @@ Xingyu Chen<sup>$</sup>, LL, Rajarshi Mukherjee. [Method-of-Moments Inference fo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [software link](https://github.com/cxy0714/Method-of-Moments-Inference-for-GLMs).
 
 LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity.](https://arxiv.org/pdf/2305.04174.pdf) Under review.
-
-LL<sup>#</sup> and Chang Li<sup>$</sup>. [New $\sqrt{n}$-consistent, numerically stable higher-order influence function estimators.](https://arxiv.org/pdf/2302.08097) Working draft.
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under review.
 
