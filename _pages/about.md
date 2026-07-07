@@ -32,7 +32,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Na Liu<sup>$</sup>, Chang Li<sup>$</sup>, Yujia Gu, LL. [Stabilized higher-order influence functions: Statistical theory of a class of bilinear forms.]() Under submission.
+Na Liu<sup>$</sup>, Chang Li<sup>$</sup>, Yujia Gu, LL. [Stabilized higher-order influence functions: Statistical theory of a class of bilinear forms.](https://arxiv.org/pdf/2607.04743) Under submission.
 
 Anna Guo, LL, David Benkeser, Razieh Nabi. [Causal inference with the Napkin graph.](https://arxiv.org/pdf/2512.19861) Submitted.
 
