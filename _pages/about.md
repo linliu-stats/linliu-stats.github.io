@@ -48,8 +48,6 @@ Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Ma
 
 Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.](https://arxiv.org/pdf/2510.14368) Under review.
 
-Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Minor revision at IEEE Transactions on Information Theory.
-
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.](https://arxiv.org/pdf/2606.22391) Under submission.
 
 Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Major Revision in Statistics and Computing.
@@ -67,6 +65,8 @@ LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under review.
 
 **_Statistical and Learning Theory_**:
+
+Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Accepted by IEEE Transactions on Information Theory.
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory. ([https://arxiv.org/pdf/2606.01706](https://arxiv.org/pdf/2606.01706))
 
