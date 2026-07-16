@@ -98,7 +98,7 @@ Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method
 
 **_Statistical Methods for Experiments and Clinical Trials_**:
 
-Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.]() (2026). Accepted by Biometrics. ([https://arxiv.org/pdf/2509.07369](https://arxiv.org/pdf/2509.07369))
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://doi.org/10.1093/biomtc/ujag129) (2026).  Biometrics, 82 (3): ujag129. ([https://arxiv.org/pdf/2509.07369](https://arxiv.org/pdf/2509.07369))
 
 Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70080) (2025). Statistics in Medicine, 44 (7): e70080. ([https://arxiv.org/pdf/2503.13066](https://arxiv.org/pdf/2503.13066))
 
