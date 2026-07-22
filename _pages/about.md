@@ -66,7 +66,7 @@ LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric effi
 
 **_Statistical and Learning Theory_**:
 
-Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://arxiv.org/pdf/2510.13703) Accepted by IEEE Transactions on Information Theory.
+Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://ieeexplore.ieee.org/document/11614867) (2026). IEEE Transactions on Information Theory. ([https://arxiv.org/pdf/2510.13703]((https://arxiv.org/pdf/2510.13703)))
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory. ([https://arxiv.org/pdf/2606.01706](https://arxiv.org/pdf/2606.01706))
 
