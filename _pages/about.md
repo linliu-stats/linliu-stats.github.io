@@ -80,7 +80,7 @@ LL, Rajarshi Mukherjee, James M Robins. [Assumption-lean falsification tests of 
 
 **_Statistical and Causal Inference Methodology_**:
 
-Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://arxiv.org/pdf/2509.22553) (2026). International Conference on Machine Learning (Spotlight).
+Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). International Conference on Machine Learning (Spotlight). ([https://arxiv.org/pdf/2509.22553](https://arxiv.org/pdf/2509.22553))
 
 Qinshuo Liu, Zixin Wang, Xi-An Li, Xinyao Ji, Lei Zhang, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation.](https://openreview.net/attachment?id=OERwuPzHdh&name=pdf) (2024). International Conference on Machine Learning. 
 
