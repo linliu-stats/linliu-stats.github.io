@@ -66,9 +66,9 @@ LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric effi
 
 **_Statistical Foundations_**:
 
-Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://ieeexplore.ieee.org/document/11614867) (2026). IEEE Transactions on Information Theory. ([https://arxiv.org/pdf/2510.13703](https://arxiv.org/pdf/2510.13703))
+Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://ieeexplore.ieee.org/document/11614867) (2026). IEEE Transactions on Information Theory. ([arXiv: 2510.13703](https://arxiv.org/pdf/2510.13703))
 
-Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory. ([https://arxiv.org/pdf/2606.01706](https://arxiv.org/pdf/2606.01706))
+Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory. ([arXiv: 2606.01706](https://arxiv.org/pdf/2606.01706))
 
 LL, Rajarshi Mukherjee, James M Robins, Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://jmlr.org/papers/volume22/19-892/19-892.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
@@ -82,7 +82,7 @@ LL, Rajarshi Mukherjee, James M Robins. [Assumption-lean falsification tests of 
 
 **_Causal Machine Learning_**:
 
-Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). International Conference on Machine Learning (Spotlight). ([https://arxiv.org/pdf/2509.22553](https://arxiv.org/pdf/2509.22553))
+Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). International Conference on Machine Learning (Spotlight). ([arXiv: 2509.22553](https://arxiv.org/pdf/2509.22553))
 
 Qinshuo Liu, Zixin Wang, Xi-An Li, Xinyao Ji, Lei Zhang, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation.](https://openreview.net/attachment?id=OERwuPzHdh&name=pdf) (2024). International Conference on Machine Learning. 
 
@@ -92,21 +92,21 @@ Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric caus
 
 **_Statistical Computing_**:
 
-Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv:2409.02708]((https://arxiv.org/pdf/2409.02708)))
+Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv: 2409.02708]((https://arxiv.org/pdf/2409.02708)))
 
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v4n1/41_41.pdf?code=p9%2F0UvomtzDWIMnzCuMjTw%3D%3D) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
 **_Statistical Methods for Randomized Experiments and Clinical Trials_**:
 
-Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://doi.org/10.1093/biomtc/ujag129) (2026).  Biometrics, 82 (3): ujag129. ([https://arxiv.org/pdf/2509.07369](https://arxiv.org/pdf/2509.07369))
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://doi.org/10.1093/biomtc/ujag129) (2026).  Biometrics, 82 (3): ujag129. ([arXiv: 2509.07369](https://arxiv.org/pdf/2509.07369))
 
-Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70080) (2025). Statistics in Medicine, 44 (7): e70080. ([https://arxiv.org/pdf/2503.13066](https://arxiv.org/pdf/2503.13066))
+Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70080) (2025). Statistics in Medicine, 44 (7): e70080. ([arXiv: 2503.13066](https://arxiv.org/pdf/2503.13066))
 
 Long-Shen Xie, LL, Shein-Chung Chow, Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
 
 **_Mathematical and Computational Biology_**:
 
-Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.]() (2026). Nature Communications. 17: 6710.
+Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.nature.com/articles/s41467-026-73599-8) (2026). Nature Communications. 17: 6710.
 
 Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.](https://academic.oup.com/bioinformatics/article-abstract/42/1/btaf562/8323485) (2025). Bioinformatics. 42 (1): btaf562.
 
