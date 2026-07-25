@@ -110,7 +110,7 @@ Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye
 
 Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.](https://academic.oup.com/bioinformatics/article-abstract/42/1/btaf562/8323485) (2025). Bioinformatics.
 
-Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://link.springer.com/article/10.1186/s12874-025-02686-z) (2025). BMC Medical Research Methodology.
+Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://link.springer.com/article/10.1186/s12874-025-02686-z) (2025). BMC Medical Research Methodology. 25: 239.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
