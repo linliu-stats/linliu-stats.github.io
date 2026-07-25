@@ -96,7 +96,7 @@ Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task L
 
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v4n1/41_41.pdf?code=p9%2F0UvomtzDWIMnzCuMjTw%3D%3D) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
-**_Statistical Methods for Experiments and Clinical Trials_**:
+**_Statistical Methods for Randomized Experiments and Clinical Trials_**:
 
 Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://doi.org/10.1093/biomtc/ujag129) (2026).  Biometrics, 82 (3): ujag129. ([https://arxiv.org/pdf/2509.07369](https://arxiv.org/pdf/2509.07369))
 
@@ -106,7 +106,7 @@ Long-Shen Xie, LL, Shein-Chung Chow, Hui Lu. [Determining the Extent and Frequen
 
 **_Mathematical and Computational Biology_**:
 
-Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.]() (2026). Nature Communications.
+Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.]() (2026). Nature Communications. 17: 6710.
 
 Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.](https://academic.oup.com/bioinformatics/article-abstract/42/1/btaf562/8323485) (2025). Bioinformatics. 42 (1): btaf562.
 
