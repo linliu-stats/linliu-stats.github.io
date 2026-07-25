@@ -64,7 +64,7 @@ LL, Xinbo Wang, and Yuhao Wang. [Root-n consistent semiparametric learning with 
 
 LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric efficient empirical higher-order influence function estimators.](https://arxiv.org/pdf/1705.07577.pdf) Under review.
 
-**_Statistical and Learning Theory_**:
+**_Statistical Foundations_**:
 
 Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://ieeexplore.ieee.org/document/11614867) (2026). IEEE Transactions on Information Theory. ([https://arxiv.org/pdf/2510.13703]((https://arxiv.org/pdf/2510.13703)))
 
@@ -72,13 +72,15 @@ Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Est
 
 LL, Rajarshi Mukherjee, James M Robins, Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://jmlr.org/papers/volume22/19-892/19-892.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
+LL, Zach Shahn, James M Robins, Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239. ([arXiv: 1908.10448](https://arxiv.org/pdf/1908.10448.pdf))
+
 LL, Rajarshi Mukherjee, James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science, 35 (3): 518-539. ([arXiv: 1904.04276](https://arxiv.org/pdf/1904.04276))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288))
 
 LL, Rajarshi Mukherjee, James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://www.sciencedirect.com/science/article/pii/S0304407623002166). Journal of Econometrics, 240 (2), 105500. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
 
-**_Statistical and Causal Inference Methodology_**:
+**_Causal Machine Learning_**:
 
 Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). International Conference on Machine Learning (Spotlight). ([https://arxiv.org/pdf/2509.22553](https://arxiv.org/pdf/2509.22553))
 
@@ -87,8 +89,6 @@ Qinshuo Liu, Zixin Wang, Xi-An Li, Xinyao Ji, Lei Zhang, LL<sup>#</sup>, Zhonghu
 Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://proceedings.neurips.cc/paper_files/paper/2022/file/b57939005a3cbe40f49b66a0efd6fc8c-Paper-Conference.pdf) (2022). Advances in Neural Information Processing Systems 35: 28238-28251. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
-
-LL, Zach Shahn, James M Robins, Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239. ([arXiv: 1908.10448](https://arxiv.org/pdf/1908.10448.pdf))
 
 **_Statistical Computing_**:
 
