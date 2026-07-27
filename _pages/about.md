@@ -94,7 +94,7 @@ Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric caus
 
 Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv: 2409.02708]((https://arxiv.org/pdf/2409.02708)))
 
-Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v4n1/41_41.pdf?code=p9%2F0UvomtzDWIMnzCuMjTw%3D%3D) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
+Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://www.global-sci.com/csiam-am/article/view/7822) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
 **_Statistical Methods for Randomized Experiments and Clinical Trials_**:
 
