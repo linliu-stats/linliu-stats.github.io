@@ -68,7 +68,7 @@ LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric effi
 
 Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://ieeexplore.ieee.org/document/11614867) (2026). IEEE Transactions on Information Theory. ([arXiv: 2510.13703](https://arxiv.org/pdf/2510.13703))
 
-Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.]() In press in Econometric Theory. ([arXiv: 2606.01706](https://arxiv.org/pdf/2606.01706))
+Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.](https://www.cambridge.org/core/journals/econometric-theory/article/higherorder-debiased-estimators-for-general-treatment-models/FA8BAB1663EB170135365D1D1B60AA99) In press in Econometric Theory. ([arXiv: 2606.01706](https://arxiv.org/pdf/2606.01706))
 
 LL, Rajarshi Mukherjee, James M Robins, Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://jmlr.org/papers/volume22/19-892/19-892.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
