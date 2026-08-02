@@ -72,6 +72,8 @@ Lvfang Sun, Zhenhua Lin, LL. [Towards an Asymptotic Efficiency Theory on Regular
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.](https://www.cambridge.org/core/journals/econometric-theory/article/higherorder-debiased-estimators-for-general-treatment-models/FA8BAB1663EB170135365D1D1B60AA99) In press in Econometric Theory. ([arXiv: 2606.01706](https://arxiv.org/pdf/2606.01706))
 
+LL, Rajarshi Mukherjee, James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://www.sciencedirect.com/science/article/pii/S0304407623002166). Journal of Econometrics, 240 (2), 105500. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
+
 LL, Rajarshi Mukherjee, James M Robins, Eric Tchetgen Tchetgen. [Adaptive estimation of nonparametric functionals.](https://jmlr.org/papers/volume22/19-892/19-892.pdf) (2021). Journal of Machine Learning Research, 22 (99): 1-66.
 
 LL, Zach Shahn, James M Robins, Andrea Rotnitzky. [Efficient estimation of optimal regimes under a no direct effect assumption.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1856117) (2021). Journal of the American Statistical Association: Theory and Methods, 116 (533): 224-239. ([arXiv: 1908.10448](https://arxiv.org/pdf/1908.10448.pdf))
@@ -79,8 +81,6 @@ LL, Zach Shahn, James M Robins, Andrea Rotnitzky. [Efficient estimation of optim
 LL, Rajarshi Mukherjee, James M Robins. [On nearly assumption-free tests of nominal confidence interval coverage for causal parameters estimated by machine learning.](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence-Interval-Coverage/10.1214/20-STS786.short) (2020). Statistical Science, 35 (3): 518-539. ([arXiv: 1904.04276](https://arxiv.org/pdf/1904.04276))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288))
-
-LL, Rajarshi Mukherjee, James M Robins. [Assumption-lean falsification tests of rate double-robustness of double-machine-learning estimators](https://www.sciencedirect.com/science/article/pii/S0304407623002166). Journal of Econometrics, 240 (2), 105500. ([arXiv: 2306.10590](https://arxiv.org/pdf/2306.10590.pdf))
 
 **_Causal Machine Learning_**:
 
