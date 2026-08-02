@@ -46,7 +46,7 @@ Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Ma
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/Simu_JASA).
 
-Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Marginal causal effect estimation with continuous instrumental variables.](https://arxiv.org/pdf/2510.14368) Under review.
+Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Average Treatment Effect Estimation with Non-binary Instrumental Variables.](https://arxiv.org/pdf/2510.14368) Under review.
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure agnostic models.](https://arxiv.org/pdf/2606.22391) Under submission.
 
