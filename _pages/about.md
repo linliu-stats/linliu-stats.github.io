@@ -44,7 +44,7 @@ Lvfang Sun, Zhenhua Lin, LL. [On Rate-Optimal Estimation of Single-Index Frechet
 
 Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Submitted.
 
-Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.]() Submitted.
+Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.]() Major Revision at Statistics in Medicine.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/Simu_JASA).
 
