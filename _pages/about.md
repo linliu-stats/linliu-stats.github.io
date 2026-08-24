@@ -32,6 +32,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Razieh Nabi, Anna Guo, LL. [Toward a Semiparametric Efficiency Theory under Equality Constraints in Nested Markov Models.]() Under submission.
+
 Mei Dong, Jingxin Yan, LL, Linbo Wang. [Efficient adjustment sets for inverse probability weighted estimation in causal graphical models.]() Under submission.
 
 Na Liu<sup>$</sup>, Chang Li<sup>$</sup>, Yujia Gu, LL. [Stabilized higher-order influence functions: Statistical theory of a class of bilinear forms.](https://arxiv.org/pdf/2607.04743) Under submission.
