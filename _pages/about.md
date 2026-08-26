@@ -32,7 +32,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Razieh Nabi, Anna Guo, LL. [Toward a Semiparametric Efficiency Theory under Equality Constraints in Nested Markov Models.]() Under submission.
+Razieh Nabi, Anna Guo, LL. [Toward a Semiparametric Efficiency Theory under Equality Constraints in Nested Markov Models.](https://arxiv.org/pdf/2608.24602) Under submission.
 
 Mei Dong, Jingxin Yan, LL, Linbo Wang. [Efficient adjustment sets for inverse probability weighted estimation in causal graphical models.]() Under submission.
 
