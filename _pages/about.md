@@ -54,8 +54,6 @@ Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Average Treatment 
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure-agnostic models.](https://arxiv.org/pdf/2606.22391) Under submission.
 
-Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Minor Revision in Statistics and Computing.
-
 Sihui Zhao<sup>$</sup>, Xinbo Wang<sup>$</sup>, LL<sup>#</sup>, Xin Zhang. [Covariate Adjustment in Randomized Experiments Motivated by Higher-Order Influence Functions.](http://arxiv.org/abs/2411.08491) Under review.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/HOIF-Car).
@@ -95,6 +93,8 @@ Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric caus
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
 **_Statistical Computing_**:
+
+Xingyu Chen<sup>$</sup>, Ruiqi Zhang, LL<sup>#</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.](https://arxiv.org/pdf/2508.12627) Accepted by Statistics and Computing.
 
 Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv: 2409.02708]((https://arxiv.org/pdf/2409.02708)))
 
