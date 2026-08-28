@@ -96,7 +96,7 @@ Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric caus
 
 Xingyu Chen<sup>$</sup>, LL, Ruiqi Zhang<sup>$</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.]() (2026). Statistics and Computing, ?? (??): ??-??. ([arXiv: 2508.12627](https://arxiv.org/pdf/2508.12627))
 
-Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv: 2409.02708]((https://arxiv.org/pdf/2409.02708)))
+Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv: 2409.02708](https://arxiv.org/pdf/2409.02708))
 
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://www.global-sci.com/csiam-am/article/view/7822) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
