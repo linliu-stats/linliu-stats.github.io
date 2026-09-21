@@ -94,7 +94,7 @@ Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric caus
 
 **_Statistical Computing_**:
 
-Xingyu Chen<sup>$</sup>, LL, Ruiqi Zhang<sup>$</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.]() (2026). Statistics and Computing, ?? (??): ??-??. ([arXiv: 2508.12627](https://arxiv.org/pdf/2508.12627))
+Xingyu Chen<sup>$</sup>, LL, Ruiqi Zhang<sup>$</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.]() (2026). Statistics and Computing, 36 (5): ??-??. ([arXiv: 2508.12627](https://arxiv.org/pdf/2508.12627))
 
 Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv: 2409.02708](https://arxiv.org/pdf/2409.02708))
 
