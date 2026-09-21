@@ -82,6 +82,14 @@ LL, Rajarshi Mukherjee, James M Robins. [On nearly assumption-free tests of nomi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288))
 
+**_Statistical Methods for Randomized Experiments and Clinical Trials_**:
+
+Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://doi.org/10.1093/biomtc/ujag129) (2026).  Biometrics, 82 (3): ujag129. ([arXiv: 2509.07369](https://arxiv.org/pdf/2509.07369))
+
+Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70080) (2025). Statistics in Medicine, 44 (7): e70080. ([arXiv: 2503.13066](https://arxiv.org/pdf/2503.13066))
+
+Long-Shen Xie, LL, Shein-Chung Chow, Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
+
 **_Causal Structure, Mechanism, and Representation Learning_**:
 
 Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). Proceedings of the 43rd International Conference on Machine Learning (Spotlight), ??:??-??. ([arXiv: 2509.22553](https://arxiv.org/pdf/2509.22553))
@@ -103,14 +111,6 @@ Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task L
 Qinshuo Liu, Zixin Wang, Xi-An Li, Xinyao Ji, Lei Zhang, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation.](https://openreview.net/attachment?id=OERwuPzHdh&name=pdf) (2024). Proceedings of the 41st International Conference on Machine Learning, 235:32041-32061. 
 
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://www.global-sci.com/csiam-am/article/view/7822) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
-
-**_Statistical Methods for Randomized Experiments and Clinical Trials_**:
-
-Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://doi.org/10.1093/biomtc/ujag129) (2026).  Biometrics, 82 (3): ujag129. ([arXiv: 2509.07369](https://arxiv.org/pdf/2509.07369))
-
-Xin Zhang, Haitao Chu, LL, Satrajit Roychoudhury. [A Robust Score Test in G-computation for Covariate Adjustment in Randomized Clinical Trials Leveraging Different Variance Estimators via Influence Functions.](https://onlinelibrary.wiley.com/doi/10.1002/sim.70080) (2025). Statistics in Medicine, 44 (7): e70080. ([arXiv: 2503.13066](https://arxiv.org/pdf/2503.13066))
-
-Long-Shen Xie, LL, Shein-Chung Chow, Hui Lu. [Determining the Extent and Frequency of On-Site Monitoring: A Bayesian Risk-Based Approach.](https://link.springer.com/article/10.1186/s12874-024-02261-y) (2024). BMC Medical Research Methodology, 24: 14.
 
 **_Mathematical and Computational Biology_**:
 
