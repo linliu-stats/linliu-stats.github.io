@@ -82,13 +82,15 @@ LL, Rajarshi Mukherjee, James M Robins. [On nearly assumption-free tests of nomi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288))
 
-**_Causal Machine Learning_**:
+**_Causal Structure, Mechanism, and Representation Learning_**:
 
-Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). International Conference on Machine Learning (Spotlight). ([arXiv: 2509.22553](https://arxiv.org/pdf/2509.22553))
+Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). Proceedings of the 43rd International Conference on Machine Learning (Spotlight), ??:??-??. ([arXiv: 2509.22553](https://arxiv.org/pdf/2509.22553))
 
-Qinshuo Liu, Zixin Wang, Xi-An Li, Xinyao Ji, Lei Zhang, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation.](https://openreview.net/attachment?id=OERwuPzHdh&name=pdf) (2024). International Conference on Machine Learning. 
+Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://link.springer.com/article/10.1186/s12874-025-02686-z) (2025). BMC Medical Research Methodology. 25: 239.
 
-Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://proceedings.neurips.cc/paper_files/paper/2022/file/b57939005a3cbe40f49b66a0efd6fc8c-Paper-Conference.pdf) (2022). Advances in Neural Information Processing Systems 35: 28238-28251. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
+
+Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric causal mediation analysis with debiased deep learning.](https://proceedings.neurips.cc/paper_files/paper/2022/file/b57939005a3cbe40f49b66a0efd6fc8c-Paper-Conference.pdf) (2022). Proceedings of the 36th International Conference on Neural Information Processing Systems 35: 28238-28251. ([arXiv: 2210.04389](https://arxiv.org/pdf/2210.04389.pdf))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DeepMed: [software link](https://github.com/siqixu/DeepMed).
 
@@ -97,6 +99,8 @@ Siqi Xu, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DeepMed: Semiparametric caus
 Xingyu Chen<sup>$</sup>, LL, Ruiqi Zhang<sup>$</sup>. [On computing and the complexity of computing higher-order U-statistics, exactly.]() (2026). Statistics and Computing, 36 (5): ??-??. ([arXiv: 2508.12627](https://arxiv.org/pdf/2508.12627))
 
 Chaozhi Zhang, LL<sup>#</sup>, Xiaoqun Zhang<sup>#</sup>. [Few-shot Multi-Task Learning of Linear Invariant Features with Meta Subspace Pursuit.](https://www.global-sci.com/csiam-am/article/view/24152) (2026). CSIAM Transactions on Applied Mathematics, 7 (6): 1156-1191. ([arXiv: 2409.02708](https://arxiv.org/pdf/2409.02708))
+
+Qinshuo Liu, Zixin Wang, Xi-An Li, Xinyao Ji, Lei Zhang, LL<sup>#</sup>, Zhonghua Liu<sup>#</sup>. [DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation.](https://openreview.net/attachment?id=OERwuPzHdh&name=pdf) (2024). Proceedings of the 41st International Conference on Machine Learning, 235:32041-32061. 
 
 Lei Li, LL, Yuzhou Peng<sup>$</sup>. [A splitting Hamiltonian Monte Carlo method for efficient sampling.](https://www.global-sci.com/csiam-am/article/view/7822) (2023). CSIAM Transactions on Applied Mathematics, 4 (1): 41-73. ([arXiv: 2105.14406](https://arxiv.org/pdf/2105.14406.pdf))
 
@@ -113,10 +117,6 @@ Long-Shen Xie, LL, Shein-Chung Chow, Hui Lu. [Determining the Extent and Frequen
 Sheng'en Shawn Hu, Zhangli Su, LL, Qingying Chen, Megan Grieco, Mengxue Tian, Ye Zheng, Anindya Dutta, Chongzhi Zang. [PATTY corrects open chromatin bias for accurate bulk and single-cell epigenomic profiling with CUT&Tag.](https://www.nature.com/articles/s41467-026-73599-8) (2026). Nature Communications. 17: 6710.
 
 Jiyuan Yang<sup>$</sup>, Nana Wei, Yang Qu, Congcong Hu, LL, Hua-Jun Wu, Xiaoqi Zheng. [Spider: a flexible and unified framework for simulating spatial transcriptomics data.](https://academic.oup.com/bioinformatics/article-abstract/42/1/btaf562/8323485) (2025). Bioinformatics. 42 (1): btaf562.
-
-Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://link.springer.com/article/10.1186/s12874-025-02686-z) (2025). BMC Medical Research Methodology. 25: 239.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HILAMA: [software link](https://github.com/Cinbo-Wang/HILAMA).
 
 Nana Wei, Yating Nie, LL<sup>#</sup>, Xiaoqi Zheng<sup>#</sup>, Hua-Jun Wu<sup>#</sup>. [Secuer: Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010753) (2022). PLOS Computational Biology, 18 (12): e1010753.
 
