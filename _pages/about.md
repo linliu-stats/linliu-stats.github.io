@@ -68,6 +68,8 @@ LL, Rajarshi Mukherjee, Whitney Newey, and James M. Robins. [Semiparametric effi
 
 **_Statistical Foundations_**:
 
+LL, Debarghya Mukherjee, Rajarshi Mukherjee, Zixiao Jolene Wang. [Sup-Norm Error under Proportional Asymptotics: Phase Transitions under Linear Regression] (2026). Proceedings of the Fortieth International Conference on Neural Information Processing.
+
 Lvfang Sun, Zhenhua Lin, LL. [Toward an Asymptotic Efficiency Theory on Regular Parameter Manifolds.](https://ieeexplore.ieee.org/document/11614867) (2026). IEEE Transactions on Information Theory. 72 (10): 7901-7931. ([arXiv: 2510.13703](https://arxiv.org/pdf/2510.13703))
 
 Yulin Zhang, LL<sup>#</sup>, Zheng Zhang<sup>#</sup>. [Higher-Order Debiased Estimators for General Treatment Models.](https://www.cambridge.org/core/journals/econometric-theory/article/higherorder-debiased-estimators-for-general-treatment-models/FA8BAB1663EB170135365D1D1B60AA99) In press in Econometric Theory. ([arXiv: 2606.01706](https://arxiv.org/pdf/2606.01706))
