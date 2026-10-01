@@ -94,7 +94,7 @@ Long-Shen Xie, LL, Shein-Chung Chow, Hui Lu. [Determining the Extent and Frequen
 
 **_Causal Structure, Mechanism, and Representation Learning_**:
 
-Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). Proceedings of the 43rd International Conference on Machine Learning (Spotlight), ??:??-??. ([arXiv: 2509.22553](https://arxiv.org/pdf/2509.22553))
+Hao Chen<sup>$</sup>, LL, Yu Guang Wang. [Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](https://openreview.net/pdf?id=4COS6SMf8r) (2026). Proceedings of the 43rd International Conference on Machine Learning (Spotlight), 306:15678-15701. ([arXiv: 2509.22553](https://arxiv.org/pdf/2509.22553))
 
 Xinbo Wang<sup>$</sup>, Junyuan Liu<sup>$</sup>, Sheng'en Shawn Hu, Zhonghua Liu, Hui Lu<sup>#</sup>, LL<sup>#</sup>. [HILAMA: High-dimensional multi-omic mediation analysis with latent confounding.](https://link.springer.com/article/10.1186/s12874-025-02686-z) (2025). BMC Medical Research Methodology. 25: 239.
 
