@@ -32,6 +32,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Xingyu Chen, Ling Guo, LL, Ruiqi Zhang. [An Alternative Point of View on Physics-Informed Learning Through the Lens of Modern Semiparametric Theory.]() Under submission.
+
 Razieh Nabi, Anna Guo, LL. [Toward a Semiparametric Efficiency Theory under Equality Constraints in Nested Markov Models.](https://arxiv.org/pdf/2608.24602) Under submission.
 
 Mei Dong, Jingxin Yan, LL, Linbo Wang. [Efficient adjustment sets for inverse probability weighted estimation in causal graphical models.]() Under submission.
