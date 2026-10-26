@@ -22,9 +22,11 @@ Teaching
 ======
 Fall 2020 -- now: Advanced mathematical statistics (graduate students in statistics @ SJTU)
 
-Summer 2021 -- now: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
+Summer 2021, Spring 2022, Spring 2023, Fall 2025, Fall 2026: Causal inference methods in data science (graduate students in statistics, biostatistics, applied mathematics, and life sciences @ SJTU)
 
-Spring 2023 -- now: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
+Spring 2023 -- Spring 2026: Bayesian statistics (undergraduate students in statistics, (applied) mathematics, and economics @ SJTU)
+
+Spring 2027 -- now: Statistics (undergraduate students in medical and biological sciences @ STJU)
 
 Selected Papers
 ======
