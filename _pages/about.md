@@ -52,10 +52,6 @@ Lvfang Sun, Zhenhua Lin, LL. [On Rate-Optimal Estimation of Single-Index Féchet
 
 Yujia Gu, LL, Wei Ma. [Assumption-lean covariate adjustment under covariate adaptive randomization when p = o(n).](https://arxiv.org/pdf/2512.20046) Submitted.
 
-Xinbo Wang, Sihui Zhao, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.](https://arxiv.org/pdf/2609.13736) Minor Revision at Statistics in Medicine.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/Simu_JASA).
-
 Mei Dong, LL, Dingke Tang, Geoffrey Liu, Wei Xu, Linbo Wang. [Average Treatment Effect Estimation with Non-binary Instrumental Variables.](https://arxiv.org/pdf/2510.14368) Under review.
 
 LL, Rajarshi Mukherjee, James M Robins. [On the asymptotic inadmissibility of double machine learning estimators under structure-agnostic models.](https://arxiv.org/pdf/2606.22391) Under submission.
@@ -91,6 +87,10 @@ LL, Rajarshi Mukherjee, James M Robins. [On nearly assumption-free tests of nomi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; See the [Discussion](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Discussion-of-On-Nearly-Assumption-Free-Tests-of-Nominal-Confidence/10.1214/20-STS796.short) ([arXiv: 2006.09613](https://arxiv.org/pdf/2006.09613)) of our paper by [Edward H. Kennedy](http://www.ehkennedy.com/), [Siva Balakrishnan](http://www.stat.cmu.edu/~siva/), and [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and our [Rejoinder](https://projecteuclid.org/journals/statistical-science/volume-35/issue-3/Rejoinder--On-nearly-assumption-free-tests-of-nominal-confidence/10.1214/20-STS804.short) ([arXiv: 2008.03288](https://arxiv.org/pdf/2008.03288))
 
 **_Statistical Methods for Randomized Experiments and Clinical Trials_**:
+
+Sihui Zhao, Xinbo Wang, Yongyong Ren, Hongyu Zhao, Hui Lu, LL. [Adjusting for Many Covariates in Randomized Clinical Trials with GLMs: Bias Reduction by Jackknife and Practical Guidance.](https://arxiv.org/pdf/2609.13736) In press at Statistics in Medicine.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Replicating code and supplementary materials: [link](https://github.com/Cinbo-Wang/Simu_JASA).
 
 Xin Zhang, LL, Haitao Chu. [Bias reduction in g-computation for covariate adjustment in randomized clinical trials.](https://doi.org/10.1093/biomtc/ujag129) (2026).  Biometrics, 82 (3): ujag129. ([arXiv: 2509.07369](https://arxiv.org/pdf/2509.07369))
 
