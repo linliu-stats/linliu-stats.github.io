@@ -34,6 +34,8 @@ Selected Papers
 
 **_Working papers_**:
 
+Zhaoqing Tian, LL, Yue Liu, Peng Wu. [Partial identification under imperfect compliance via cross-world correlation restriction.](https://arxiv.org/pdf/2611.32615) Under submission.
+
 Jiahan Zhu, LL, Kelly Van Lancker, Xin Zhang. [Bias-reduced covariate adjustments for survival outcomes in randomized controlled trials with leave-one-out.]() Under submission.
 
 Xingyu Chen, Ling Guo, LL, Ruiqi Zhang. [An Alternative Point of View on Physics-Informed Learning Through the Lens of Modern Semiparametric Theory.]() Under submission.
