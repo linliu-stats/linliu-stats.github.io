@@ -34,7 +34,7 @@ Selected Papers
 
 **_Working papers_**:
 
-Jiahan Zhu, LL, Kelly Van Lancker, Xin Zhang. [Bias-reduced covariate-adjusted log-rank test in randomized controlled trials with leave-one-out.]() Under submission.
+Jiahan Zhu, LL, Kelly Van Lancker, Xin Zhang. [Bias-reduced covariate adjustments for survival outcomes in randomized controlled trials with leave-one-out.]() Under submission.
 
 Xingyu Chen, Ling Guo, LL, Ruiqi Zhang. [An Alternative Point of View on Physics-Informed Learning Through the Lens of Modern Semiparametric Theory.]() Under submission.
 
