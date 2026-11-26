@@ -160,6 +160,8 @@ Jeremy R. Glissen Brown, Nabil M. Mansour, Pu Wang, Maria Aguilera Chuchuca, Sco
 
 **_Miscellaneous_**:
 
+Kai Hou, Xingyu Chen<sup>$</sup>, LL, Hai-Hui Yang. [Beyond cardiogenic shock stage: The promise and limits of CS-MORT-6.](https://www.internationaljournalofcardiology.com/article/S0167-5273(26)00925-3/fulltext) (2027). International Journal of Cardiology 468: 135075.
+
 Ruixuan Zhao, Oliver Dukes, Linbo Wang, LL. [Ruixuan Zhao, Oliver Dukes, Linbo Wang, and Lin Liu's contribution to the Discussion of 'Regression by composition' by Farewell et al.]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology. ([https://arxiv.org/pdf/2604.17760](https://arxiv.org/pdf/2604.17760))
 
 Mei Dong, Linbo Wang, LL, Oliver Dukes. [Mei Dong, Linbo Wang, Lin Liu, and Oliver Dukes's contribution to the Discussion of 'Regression by composition' by Farewell et al.]() (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology. ([https://arxiv.org/pdf/2604.18388](https://arxiv.org/pdf/2604.18388))
@@ -168,7 +170,7 @@ Jingxin Yan, LL, Oliver Dukes, Qizhai Li, Linbo Wang. [Jingxin Yan, Lin Liu, Oli
 
 LL. [Proposer of the vote of thanks to Bruns-Smith et al. and contribution to the Discussion of 'Augmented balancing weights as linear regression'](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkag031/8425030) (2026). Journal of the Royal Statistical Society, Series B: Statistical Methodology. 88 (3): 724-726.
 
-Kai Hou, LL, Haihui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study](https://www.sciencedirect.com/science/article/pii/S0167527325003717) (2025). International Journal of Cardiology, 434: 133328.
+Kai Hou, LL, Hai-Hui Yang. [Editorial: Efficacy and safety of Anakinra in idiopathic recurrent pericarditis: Results from the UPACITER study](https://www.sciencedirect.com/science/article/pii/S0167527325003717) (2025). International Journal of Cardiology, 434: 133328.
 
 Zixiao Wang<sup>$</sup>, Yi Feng<sup>$</sup>, LL<sup>#</sup>. [Book Review: _Semiparametric regression in R_ by Jaroslaw Harezlak, David Ruppert, and Matt P. Wand.](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2139707) (2022). Journal of the American Statistical Association: Theory and Methods, 117 (540): 2283-2287.
 
